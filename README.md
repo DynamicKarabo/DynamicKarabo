@@ -1,86 +1,72 @@
 # Hi, I'm Karabo Oliphant 👋
-
 ## 🚀 About Me
-
 I'm a **South African System Developer** currently pursuing **Level 4 System Development at DynamicDNA**. With a strong foundation in software engineering through my **ALX Software Engineering certificate**, I'm passionate about building impactful solutions and continuously expanding my technical expertise.
-
 ### 💼 Professional Profile
 - 🎓 **Level 4 System Development** student at **DynamicDNA**
 - 🏆 **ALX Software Engineering** certificate holder
 - 🌍 Based in **South Africa**
 - 💡 Interested in **consulting**, **business solutions**, and **collaborative teamwork**
 - 🤝 Open to **collaborations** on innovative projects
-
 ### 🛠️ Technical Skills
 
-```python
-skills = {
-    "Languages": ["Python", "C#", "SQL"],
-    "Focus Areas": ["System Development", "Software Engineering", "Database Management"],
-    "Soft Skills": ["Problem-Solving", "Teamwork", "Communication", "Project Management"]
-}
-```
+I'm a practical developer with a growth mindset, focused on building real-world solutions and continuously learning new technologies. My technical toolkit spans multiple programming languages, frameworks, and development practices.
 
-- **Python**: Building scalable applications and automation solutions
-- **C#**: Object-oriented programming and system development
-- **SQL**: Database design, optimization, and management
+#### Languages
+- **Python** - Building scalable applications and automation solutions
+- **C#** - Object-oriented programming and system development
+- **SQL** - Database design, optimization, and management
+
+#### Frameworks & Tools
+- Web Development Frameworks
+- Version Control (Git/GitHub)
+- Database Management Systems
+
+#### Focus Areas
+- System Development
+- Software Engineering
+- Database Management
+- Business Logic Implementation
+- Algorithm Optimization
+
+#### Soft Skills
+- Problem-Solving
+- Teamwork & Collaboration
+- Clear Communication
+- Project Management
 
 ## 🏅 Hero Projects
-
 Here are some of my key projects that showcase my problem-solving abilities and technical expertise:
-
 ### 1. [RadiusSolution](https://github.com/DynamicKarabo/RadiusSolution)
 🎯 **Impact**: Advanced radius calculation system demonstrating mathematical problem-solving and algorithm implementation
 - Built with C# for precise geometric computations
 - Showcases strong analytical thinking and code optimization
-
 ### 2. [Revenue](https://github.com/DynamicKarabo/Revenue)
 💰 **Impact**: Revenue management and analytics system
 - Focused on business logic implementation and data processing
 - Demonstrates ability to build practical business solutions
-
 ### 3. [9016](https://github.com/DynamicKarabo/9016)
 🔧 **Impact**: System development project showcasing technical versatility
 - Team collaboration and problem-solving in action
 - Real-world application of system development principles
-
-### 4. [retail](https://github.com/DynamicKarabo/retail)
-🛒 **Impact**: Retail management system with database integration
-- SQL database design and management
-- Demonstrates full-stack development capabilities
-
-### 5. [PythonSampleProject](https://github.com/DynamicKarabo/PythonSampleProject)
-🐍 **Impact**: Python-based project showcasing clean code and best practices
-- Object-oriented programming principles
-- Foundation for scalable software solutions
-
+### 4. [alx-low_level_programming](https://github.com/DynamicKarabo/alx-low_level_programming)
+💻 **Impact**: Foundation in C programming and low-level concepts
+- Deep understanding of memory management and data structures
+- Strong algorithmic problem-solving foundation
+### 5. [simple_shell](https://github.com/DynamicKarabo/simple_shell)
+🐚 **Impact**: Custom UNIX shell implementation
+- Systems programming and process management
+- Collaborative project demonstrating teamwork
 ## 🌟 What Drives Me
-
-- **Problem-Solving**: I thrive on tackling complex challenges and finding elegant solutions
-- **Teamwork**: Collaboration brings out the best in projects and people
-- **Impact**: Building systems that make a real difference in business and society
-- **Continuous Learning**: Always exploring new technologies and best practices
-
+I'm driven by the challenge of solving complex problems and creating solutions that make a real impact. Whether it's optimizing business processes, developing robust systems, or collaborating on innovative projects, I bring enthusiasm, dedication, and a continuous learning mindset to everything I do.
 ## 📫 Let's Connect!
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/karabooliphant)
+- 📧 Email: karabooliphant@gmail.com
+- 🐦 Twitter: [@DynamicKarabo](https://twitter.com/DynamicKarabo)
+## 🤝 Open to Collaborations
+I'm always excited to collaborate on interesting projects, especially those involving:
+- System development and optimization
+- Business automation solutions
+- Open-source contributions
+- Learning and knowledge-sharing initiatives
 
-I'm always open to discussing new opportunities, collaborations, or just connecting with fellow developers!
-
-- 📧 **Email**: [karabooliphant34@gmail.com](mailto:karabooliphant34@gmail.com)
-- 📍 **Location**: Randburg, South Africa
-- 💼 **LinkedIn**: Feel free to reach out!
-- 🌐 **GitHub**: You're already here - check out my repositories!
-
-### 🤝 Open to Collaborations
-
-I'm particularly interested in:
-- System development projects
-- Business consulting and solution design
-- Team-based software engineering initiatives
-- Open source contributions
-- Consulting opportunities in South Africa and beyond
-
----
-
-💡 **"Building systems that solve problems and create opportunities."**
-
-⭐ Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate!
+Feel free to reach out if you'd like to work together! 🚀
