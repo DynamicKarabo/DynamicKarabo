@@ -69,7 +69,7 @@ I'm driven by the challenge of solving complex problems and creating solutions t
 ## 📫 Let's Connect!
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/karabo-oliphant-2b4b17229/)
 - 📧 Email: karabooliphant@gmail.com
-- 🐦 Twitter: [@DynamicKarabo](https://twitter.com/DynamicKarabo)
+<!-- - 🐦 Twitter: [@DynamicKarabo](https://twitter.com/DynamicKarabo) -->
 
 ## 🤝 Open to Collaborations
 I'm always excited to collaborate on interesting projects, especially those involving:
@@ -78,4 +78,4 @@ I'm always excited to collaborate on interesting projects, especially those invo
 - Open-source contributions
 - Learning and knowledge-sharing initiatives
 
-Feel free to reach out if you'd like to work together! 🚀
+Feel free to reach out if you'd like to work together! 🚀i
