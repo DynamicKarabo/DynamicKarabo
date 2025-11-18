@@ -43,7 +43,7 @@ Here are some of my key projects that showcase my problem-solving abilities and 
 
 ## 📫 How to reach me
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+- 📧 Email: karabooliphant34@gmail.com
 - 🐙 [GitHub](https://github.com/DynamicKarabo)
 
 ## 🌱 Currently Learning
