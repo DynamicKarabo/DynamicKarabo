@@ -1,151 +1,201 @@
 # Hi, I'm Karabo Oliphant 👋
 
-## Full-Stack Developer | NGO Digital Solutions Specialist | UI/UX Implementation Expert
+## Full-Stack Developer | Systems Development Student | Multi-Language Programmer
 
 ---
 
 ### 🚀 About Me
 
-I'm a **South African Full-Stack Developer** specializing in **mission-driven web applications** for NGOs and social impact organizations. With expertise spanning frontend development, payment gateway integration, and production deployment pipelines, I build scalable, user-centric solutions that make a difference.
+I'm a **South African Software Developer** with expertise across multiple programming paradigms and tech stacks. From building production web applications to exploring open-source browser engines, I thrive on diverse technical challenges and continuous learning.
 
-Currently pursuing **Level 4 System Development at DynamicDNA** while actively deploying production applications used by humanitarian organizations across South Africa.
+Currently pursuing **Level 4 System Development at DynamicDNA** while maintaining an active portfolio of web development, system programming, and algorithmic problem-solving projects.
 
 ### 💼 Professional Experience
 
-**Full-Stack Developer** | *Freelance & Contract Work*
-- 🏗️ **Production Deployments**: Built and deployed multiple live NGO websites using modern CI/CD practices
-- 💳 **Payment Integration Specialist**: Implemented secure PayFast payment gateways with webhook verification and transaction processing
-- 🎨 **Figma-to-Code Pipeline**: Expertly translate UI/UX designs into pixel-perfect, responsive React applications
-- ☁️ **Cloud Infrastructure**: Manage production deployments on Vercel with automated rollback capabilities and environment configurations
-- 🔐 **Security-First Development**: Implement API route protection, input validation, and secure payment processing workflows
+**Full-Stack Web Developer** | *Freelance & Contract Work*
+- 🌐 **Production Web Applications**: Deployed live websites with modern tech stacks (TypeScript, React, Next.js)
+- 💳 **Payment Integration**: Implemented PayFast gateway with secure webhook processing
+- 🎨 **UI/UX Implementation**: Translate Figma designs into responsive, pixel-perfect code
+- ☁️ **DevOps**: Vercel deployment pipelines with custom domains and SSL/TLS configuration
+- 🛡️ **Security**: API protection, input validation, secure transaction processing
 
-**System Development Student** | *DynamicDNA*
-- 📚 Level 4 System Development coursework focusing on enterprise-grade application architecture
-- 🎓 Completed 6 months of the ALX Software Engineering program, gaining hands-on experience in algorithms, data structures, and software engineering best practices
+**Systems Development Student** | *DynamicDNA*
+- 📚 Level 4 System Development - Enterprise application architecture
+- 🎓 Completed 6 months of ALX Software Engineering program
+- 🧠 Focus: Algorithms, data structures, software engineering best practices
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Technical Arsenal
 
-#### **Frontend Development**
+#### **Languages**
 ```
 TypeScript/JavaScript  ████████████████████░  95%
-React.js & Next.js     ████████████████████░  95%
-Tailwind CSS           ███████████████████░░  90%
-Responsive Design      ████████████████████░  95%
-Figma Implementation   ███████████████████░░  90%
+C#                     ██████████████████░░░  85%
+Python                 █████████████████░░░░  80%
+C++                    ████████████░░░░░░░░░  55%
+SQL                    ██████████████████░░░  85%
 ```
+
+#### **Frontend Development**
+- **Frameworks**: React.js, Next.js
+- **Styling**: Tailwind CSS, CSS3, Responsive Design
+- **Tools**: Figma-to-code workflows, Component architecture
+- **Focus**: Accessibility, Performance optimization, Cross-browser compatibility
 
 #### **Backend & Infrastructure**
-```
-API Development        ██████████████████░░░  85%
-Payment Gateway APIs   ███████████████████░░  90%
-Webhook Processing     ██████████████████░░░  85%
-Vercel Deployment      ████████████████████░  95%
-Git/GitHub Workflows   ████████████████████░  95%
-```
+- **Runtime**: Node.js, .NET Framework
+- **APIs**: RESTful design, Webhook processing, Payment gateways
+- **Databases**: SQL, Database design & optimization
+- **DevOps**: Vercel, GitHub Actions, CI/CD pipelines
+- **Security**: Authentication, input validation, secure transactions
 
-#### **Languages & Tools**
-- **Languages**: TypeScript, JavaScript, C#, Python, SQL
-- **Frontend**: React, Next.js, Tailwind CSS, HTML5, CSS3
-- **Backend**: Node.js, API Routes, Server Actions
-- **Databases**: SQL, Database Design & Optimization
-- **DevOps**: Vercel, GitHub Actions, CI/CD Pipelines
-- **Design Tools**: Figma (Design-to-Code Expert)
-- **Payment Systems**: PayFast Integration, Transaction Processing
-- **Version Control**: Git, GitHub (Advanced workflows)
+#### **Systems & Tools**
+- **Version Control**: Git, GitHub (advanced workflows)
+- **Development**: VS Code, Visual Studio, CLI tools
+- **Open Source**: Contributing to browser engine projects (Ladybird)
+- **Methodologies**: Agile, Test-driven development, Code review
 
 ---
 
 ### 🏆 Featured Projects
 
-#### 🌍 [AL TAAWUN FI AL](https://altaawunfial.org.za) - *Humanitarian Organization Platform*
-**Tech Stack**: TypeScript, React, Next.js, Tailwind CSS, PayFast API
+#### 🌐 [AL TAAWUN FI AL](https://altaawunfial.org.za) - *Humanitarian Organization Website*
+**Tech**: TypeScript, React, Next.js, Tailwind CSS, PayFast API
 
-**Production website** for a South African Muslim humanitarian organization serving communities across the region.
+**Live production website** for South African humanitarian organization.
 
 **Key Achievements**:
-- ✅ Designed and deployed complete donation management system with PayFast integration
-- ✅ Implemented secure payment processing with webhook verification and signature validation
-- ✅ Built responsive, accessible UI from Figma designs with 99% design accuracy
-- ✅ Integrated PDF document management for organizational transparency
-- ✅ Deployed to production with automated CI/CD pipeline on Vercel
-- ✅ Configured custom domain (altaawunfial.org.za) with SSL/TLS security
-- ✅ Implemented multiple payment methods (VISA, Mastercard, EFT, Instant EFT)
-- ✅ Created comprehensive documentation for handoff and future maintenance
+- ✅ Complete donation system with PayFast integration (VISA, Mastercard, EFT, Instant EFT)
+- ✅ Webhook verification with signature validation
+- ✅ Responsive UI from Figma designs (99% design accuracy)
+- ✅ PDF document management system
+- ✅ Custom domain with SSL/TLS (altaawunfial.org.za)
+- ✅ Automated CI/CD deployment on Vercel
+- ✅ Production-grade documentation
 
-**Impact**: Empowers organization to accept online donations 24/7, expanding their reach and operational efficiency
+**Impact**: 24/7 online donation processing, expanded operational reach
 
 ---
 
-#### 🎯 [Vukazenzele](https://github.com/DynamicKarabo/vukazenzele) - *Community Empowerment Platform*
-**Tech Stack**: TypeScript, React, Modern Web Standards
+#### 🎯 [Vukazenzele](https://github.com/DynamicKarabo/vukazenzele) - *TypeScript Web Platform*
+**Tech**: TypeScript, React, Modern Web Standards
 
-**Recent project** focusing on community development and empowerment initiatives.
+**Recent web application** showcasing modern frontend architecture.
 
 **Technical Highlights**:
-- 🔨 Modern TypeScript architecture with type safety
-- 🎨 Component-based design system for scalability
+- 🔨 Type-safe TypeScript architecture
+- 🎨 Scalable component-based design
 - 📱 Mobile-first responsive implementation
-- ⚡ Optimized for performance and accessibility
+- ⚡ Performance & accessibility optimized
+
+---
+
+#### 🦄 [Ladybird Browser Fork](https://github.com/DynamicKarabo/ladybird) - *C++ Open Source*
+**Tech**: C++, BSD 2-Clause License
+
+**Forked browser engine project** - exploring web rendering at the systems level.
+
+**Learning Focus**:
+- 🔧 Browser engine architecture
+- 🧬 C++ systems programming
+- 🏗️ Open-source contribution workflows
+- 📖 Web standards implementation
+
+---
+
+#### 📝 [Python To-Do List CLI](https://github.com/DynamicKarabo/python-todo-list-twin) - *Command-Line App*
+**Tech**: Python
+
+**Simple yet practical** command-line To-Do List application for task management.
+
+**Features**:
+- ✅ Add, view, and manage tasks from terminal
+- 💾 File-based persistence
+- 💻 Clean CLI interface
+- 🐍 Python best practices
 
 ---
 
 #### 💻 [C# Fundamentals Portfolio](https://github.com/DynamicKarabo/csharp-fundamentals)
-**Tech Stack**: C#, .NET, Object-Oriented Programming
+**Tech**: C#, .NET, Object-Oriented Programming
 
-**Educational repository** showcasing mastery of C# programming fundamentals and OOP principles.
+**Educational repository** demonstrating C# mastery and OOP principles.
 
-**Demonstrates**:
-- 🏗️ Solid understanding of OOP concepts
-- 🧩 Problem-solving with algorithms and data structures
-- 📐 Clean code practices and SOLID principles
-- 🔄 Control flow, error handling, and best practices
+**Showcases**:
+- 🏗️ Solid OOP concepts (Encapsulation, Inheritance, Polymorphism)
+- 🧩 Algorithm implementations & data structures
+- 📐 SOLID principles & clean code
+- 🔄 Error handling & control flow patterns
 
 ---
 
 #### 📊 [Revenue Management System](https://github.com/DynamicKarabo/Revenue)
-**Tech Stack**: C#, SQL, Business Logic
+**Tech**: C#, SQL, Business Logic
 
-**Business intelligence solution** for revenue tracking, analysis, and reporting.
+**Business intelligence solution** for revenue analysis and financial reporting.
 
 **Features**:
-- 💰 Financial data processing and calculations
-- 📈 Revenue analytics and trend analysis
+- 💰 Financial data processing & calculations
+- 📈 Revenue analytics with trend analysis
 - 🗄️ Database optimization for large datasets
-- 📋 Comprehensive reporting functionality
+- 📋 Comprehensive reporting system
+
+---
+
+#### 🛍️ [Retail Management System](https://github.com/DynamicKarabo/retail)
+**Tech**: C#
+
+**Retail business logic** implementation - C# task project.
+
+**Demonstrates**: Business application development, inventory concepts, transaction processing
+
+---
+
+#### 💻 [Additional C# Projects](https://github.com/DynamicKarabo?tab=repositories&q=&type=&language=c%23)
+- **[RadiusSolution](https://github.com/DynamicKarabo/RadiusSolution)**: Geometric calculations, algorithm optimization
+- **[PythonSampleProject](https://github.com/DynamicKarabo/PythonSampleProject)**: Python programming patterns
+- **[ALTAAWUNredesign](https://github.com/DynamicKarabo/ALTAAWUNredesign)**: Figma design-to-code project
+- **[Website-Redesign-for-AL-TAAWUN](https://github.com/DynamicKarabo/Website-Redesign-for-AL-TAAWUN)**: Website redesign work
 
 ---
 
 ### 🎯 Core Competencies
 
-#### **Payment Integration & E-Commerce**
-- PayFast API integration with full transaction lifecycle management
-- Secure webhook processing with signature verification
-- Multiple payment method implementations (cards, EFT, instant payments)
-- Transaction status tracking and error handling
-- PCI compliance best practices
+#### **Full-Stack Web Development**
+- Modern JavaScript/TypeScript ecosystems
+- React & Next.js application architecture
+- RESTful API design & implementation
+- Database design & SQL optimization
+- Responsive, accessible UI implementation
 
-#### **Design Implementation**
-- Pixel-perfect Figma-to-code translation
-- Responsive design across all device sizes
-- Accessibility standards (WCAG compliance)
-- Cross-browser compatibility
-- Performance optimization (Core Web Vitals)
+#### **Payment Systems & E-Commerce**
+- PayFast API integration
+- Webhook processing & signature verification
+- Multiple payment methods (cards, EFT, instant payments)
+- Transaction lifecycle management
+- PCI compliance considerations
 
-#### **Production Deployment**
-- Vercel production deployments with custom domains
-- Environment variable management across dev/staging/prod
-- Automated deployment pipelines with GitHub integration
-- Rollback strategies and version management
-- SSL/TLS configuration and DNS management
+#### **Systems Programming**
+- C# .NET application development
+- Python scripting & automation
+- C++ open-source exploration
+- Algorithm design & optimization
+- Object-oriented design patterns
 
-#### **Full Development Lifecycle**
-- Requirements gathering and technical planning
-- Agile development with iterative releases
-- Code review and quality assurance
-- Documentation and knowledge transfer
-- Post-deployment support and maintenance
+#### **DevOps & Deployment**
+- Vercel production deployments
+- Custom domain & SSL/TLS configuration
+- GitHub Actions CI/CD pipelines
+- Environment management (dev/staging/prod)
+- Rollback strategies & version control
+
+#### **Design to Code**
+- Pixel-perfect Figma implementation
+- Component-based architecture
+- Responsive design (mobile-first)
+- Accessibility standards (WCAG)
+- Cross-browser testing
 
 ---
 
@@ -154,40 +204,43 @@ Git/GitHub Workflows   ███████████████████
 **Recent Contributions** (Last 30 Days):
 - 🔨 **44 commits** across 3 active repositories
 - 🚀 **3 new repositories** created and deployed
-- 💻 Projects: `csharp-fundamentals`, `vukazenzele`, `altaawun-website`
-- 🌱 Consistent development activity with production deployments
+- 💻 **Active Projects**: `csharp-fundamentals`, `vukazenzele`, `altaawun-website`
+- 🌱 Consistent development with production deployments
 
-**Tech Focus**:
-- Primary: TypeScript/React ecosystem
-- Secondary: C# system development
-- Emerging: Advanced payment systems and cloud architecture
-
----
-
-### 🌱 Currently Exploring
-
-- 🔐 Advanced authentication patterns (OAuth, JWT, session management)
-- ☁️ Serverless architecture and edge computing
-- 🤖 AI-powered development tools and automation
-- 📊 Analytics integration and data-driven decision making
-- 🎨 Advanced animation libraries (Framer Motion, GSAP)
-- 🧪 Testing strategies (Jest, React Testing Library, Playwright)
+**Current Tech Focus**:
+- **Primary**: TypeScript/React ecosystem for web apps
+- **Secondary**: C# system development & algorithms
+- **Exploring**: C++ systems programming, browser internals
+- **Learning**: Advanced DevOps, cloud architecture, payment systems
 
 ---
 
-### 💡 What I Bring to Your Project
+### 🌱 Currently Learning & Exploring
 
-✅ **End-to-End Development**: From Figma mockups to production deployment  
-✅ **Payment Integration Expertise**: Secure, compliant e-commerce solutions  
-✅ **NGO/Social Impact Focus**: Mission-driven development with purpose  
-✅ **Production-Ready Code**: Clean, maintainable, documented codebases  
-✅ **Modern Best Practices**: Type safety, performance optimization, accessibility  
-✅ **Reliable Deployment**: CI/CD automation with rollback capabilities  
-✅ **Clear Communication**: Regular updates, documentation, knowledge sharing  
+- 🔐 Advanced authentication (OAuth, JWT, session management)
+- ☁️ Serverless architecture & edge computing
+- 🤖 AI-powered development tools
+- 🐞 Browser engine internals (via Ladybird project)
+- 🧪 Testing strategies (Jest, Playwright, unit/integration testing)
+- 💡 Advanced C++ patterns for systems programming
+- 📊 Analytics & data-driven development
 
 ---
 
-### 📫 Let's Connect
+### 💡 What I Bring to the Table
+
+✅ **Polyglot Programming**: Fluent across TypeScript, C#, Python, SQL, C++  
+✅ **Full-Stack Expertise**: Frontend to backend to deployment  
+✅ **Production Experience**: Live websites with real users  
+✅ **Payment Integration**: Secure e-commerce & donation systems  
+✅ **Clean Code**: Maintainable, documented, tested codebases  
+✅ **Fast Learner**: Quick adaptation to new tools & frameworks  
+✅ **Problem Solver**: Algorithmic thinking & debugging skills  
+✅ **Open Source Curious**: Contributing & learning from community projects  
+
+---
+
+### 📫 Connect With Me
 
 - 💼 **LinkedIn**: [linkedin.com/in/karabo-oliphant](https://www.linkedin.com/in/your-profile)
 - 📧 **Email**: karabooliphant34@gmail.com
@@ -199,20 +252,21 @@ Git/GitHub Workflows   ███████████████████
 ### 🤝 Open to Opportunities
 
 🔍 **Seeking**:
-- Full-stack development roles (TypeScript/React focus)
-- NGO/social impact projects
-- Freelance payment integration projects
-- Collaborative open-source initiatives
+- Full-stack development roles (TypeScript/React or C#/.NET)
+- Junior/Mid-level software engineering positions
+- Open-source collaboration opportunities
+- Freelance web development projects
 
 💼 **Available for**:
 - Contract web development
-- Technical consulting
-- Code reviews and mentorship
-- UI/UX implementation from Figma designs
+- Payment system integration
+- Figma-to-code implementation
+- Technical consulting & code reviews
+- Mentorship (especially for students learning to code)
 
 ---
 
-*Building impactful digital solutions, one commit at a time.* 🚀
+*Building solutions across the stack, one commit at a time.* 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DynamicKarabo&color=blueviolet&style=flat-square)
 
