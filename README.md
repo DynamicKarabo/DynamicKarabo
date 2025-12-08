@@ -2,6 +2,15 @@
 
 ## Full-Stack Developer | Systems Development Student | Multi-Language Programmer
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🚀 Live Production Work
+
+**[🌐 AL-TAAWUN Humanitarian Website](https://altaawunfial.org.za)** | Full-stack Next.js application with PayFast payment integration, serving real users with 24/7 donation processing
+
+**Tech Stack:** TypeScript • React • Next.js • Tailwind CSS • PayFast API • Vercel  
+**Features:** Payment gateway integration • Webhook processing • Responsive design • PDF management • Custom domain with SSL/TLS
+
 ---
 
 ### 🚀 About Me
