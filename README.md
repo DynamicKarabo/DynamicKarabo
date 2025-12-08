@@ -87,6 +87,25 @@ SQL                    ██████████████████░
 
 ---
 
+### 🤖 AI Business Analyzer
+**Full-Stack AI Application | Prompt Engineering | Google Gemini Integration**
+
+🔗 [View on GitHub](https://github.com/DynamicKarabo/ai-business-analyzer) | [Live Demo](https://ai-business-analyzer.vercel.app)
+
+An intelligent business website analyzer powered by Google Gemini AI and advanced prompt engineering. Analyzes website quality, generates strategic recommendations, and provides competitive insights.
+
+**Key Features:**
+- ✅ Full-stack Next.js 14 application with TypeScript
+- ✅ Google Gemini API integration for AI-powered analysis
+- ✅ Multi-stage prompt chains for business intelligence
+- ✅ Production-ready deployment on Vercel
+- ✅ Responsive UI built with React 18 & Tailwind CSS
+- ✅ Professional error handling & validation
+
+- **Tech Stack:** Next.js 14 • React 18 • TypeScript • Tailwind CSS • Google AI Studio • Vercel
+
+- **Impact:** Demonstrates full-stack capabilities, prompt engineering expertise, and ability to build production-grade AI applications. Perfect for business outreach in freelance web development.
+
 #### 🎯 [Vukazenzele](https://github.com/DynamicKarabo/vukazenzele) - *TypeScript Web Platform*
 **Tech**: TypeScript, React, Modern Web Standards
 
