@@ -296,6 +296,10 @@ An intelligent business website analyzer powered by Google Gemini AI and advance
 
 *Building solutions across the stack, one commit at a time.* 🚀
 
+## Current Work
+
+**[chatgpt-app-with-next-js](https://github.com/DynamicKarabo/chatgpt-app-with-next-js)** — Next.js chat application with Google Generative AI (Gemini) integration. Backend API route handles message processing, frontend component manages conversation state and real-time updates. Deployed on Vercel with automatic CI/CD from GitHub.
+
 ![Profile Views](https://komarev.com/ghpvc/?username=DynamicKarabo&color=blueviolet&style=flat-square)
 
 ---
