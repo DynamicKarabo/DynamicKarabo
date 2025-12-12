@@ -301,8 +301,7 @@ An intelligent business website analyzer powered by Google Gemini AI and advance
 
 **[chatgpt-app-with-next-js](https://github.com/DynamicKarabo/chatgpt-app-with-next-js)** — Next.js chat application with Google Generative AI (Gemini) integration. Backend API route handles message processing, frontend component manages conversation state and real-time updates. Deployed on Vercel with automatic CI/CD from GitHub.
 
-**[📚 Class Monitoring App](https://github.com/DynamicKarabo/class-app)** – React + TypeScript attendance tracking system with beautiful Tailwind UI. Real-time statistics, student management, and responsive design. Built with Vite and deployed on Vercel.
-
+**[📚 Class Monitoring App](https://github.com/DynamicKarabo/class-app)** – React + TypeScript attendance tracking system with beautiful Tailwind UI. Features real-time statistics, bulk CSV/TXT student import, roster filtering, visual progress tracking, and celebratory 100% attendance banner. Built with Vite and deployed on Vercel.
 ![Profile Views](https://komarev.com/ghpvc/?username=DynamicKarabo&color=blueviolet&style=flat-square)
 
 ---
