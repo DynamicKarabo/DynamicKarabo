@@ -4,6 +4,28 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## 🚀 What I've Built
+
+I'm passionate about building scalable, collaborative, and innovative full-stack applications. Here are some of my key projects:
+
+### **Code-Collab** - Collaborative IDE
+A real-time collaborative code editor that enables seamless teamwork on programming projects. Built with modern web technologies including React, TypeScript, Next.js, and Figma design integration.
+
+**Tech Stack:**
+- **Frontend:** React, TypeScript, Figma-to-code workflows
+- **Backend:** Next.js, Vercel deployment
+- **DevOps:** Docker, GitHub Actions CI/CD pipelines
+- **Tools:** Vercel, GitHub workflows
+
+### Other Notable Projects:
+- **AI Business Analyzer** - Full-Stack AI application with Google Gemini integration and prompt engineering
+- **Class Monitoring App** - Real-time attendance tracking system with Tailwind CSS and React + TypeScript
+- **Payment Integration Projects** - PayFast gateway integration with secure transaction processing
+- **Portfolio Tools & Stack** - Comprehensive documentation of tools and technologies
+
+---
+
+
 ## 🚀 Live Production Work
 Portfolio Tools & Stack (2026) → https://docs.google.com/spreadsheets/d/1l1hCH9I2YdzExY3NXRLwRbELwxFstcCooLPBGNXlp0I/edit?usp=sharing
 
