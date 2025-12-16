@@ -329,3 +329,18 @@ An intelligent business website analyzer powered by Google Gemini AI and advance
 ---
 
 **⭐️ From [DynamicKarabo](https://github.com/DynamicKarabo)**
+
+---
+
+## 🚀 CodeCollab AI - My Latest Project
+
+A collaborative IDE built for real-time pair programming:
+
+- 🔄 **Real-Time Collaboration**: Live cursors, presence, and Yjs file syncing
+- ✨ **AI Superpowers**: "Fix This" button for errors and a context-aware Chat Assistant
+- 🎙️ **Voice Chat**: Built-in P2P voice signaling for true pair programming
+- 📝 **Pro Editor**: Multi-file tabs, File Tree system, and Monaco Editor
+- 🎨 **Themes**: Vercel Dark, Dracula, and GitHub Light
+- 🐙 **GitHub Storage**: Import any repo directly to your workspace
+
+✅ The code is clean, the build is ready, and the features are live.
