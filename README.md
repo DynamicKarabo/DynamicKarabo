@@ -67,6 +67,8 @@ C#                     ██████████████████░
 Python                 █████████████████░░░░  80%
 C++                    ████████████░░░░░░░░░  55%
 SQL                    ██████████████████░░░  85%
+JavaScript                          92%
+C                                  70%
 ```
 
 #### **Frontend Development**
@@ -78,7 +80,7 @@ SQL                    ██████████████████░
 #### **Backend & Infrastructure**
 - **Runtime**: Node.js, .NET Framework
 - **APIs**: RESTful design, Webhook processing, Payment gateways
-- **Databases**: SQL, Database design & optimization
+- **Databases**: SQL, Database design & optimization, PostgreSQL, MongoDB
 - **DevOps**: Vercel, GitHub Actions, CI/CD pipelines
 - **Security**: Authentication, input validation, secure transactions
 
