@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/karabooliphant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/DynamicKarabo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="mailto:karabo.oliphant@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:karabooliphant@ppsolution.co.za"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 </div>
 
@@ -20,25 +20,9 @@
 ---
 
 ## 🧪 TECH ARSENAL
-
-### 💻 Programming & Markup
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🧰 Frameworks & Cloud
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,js,react,nextjs,tailwind,nodejs,postgres,supabase,express,vercel,github,git,docker,figma,postman,vscode,linux,githubactions&perline=9" />
+</div>
 
 ---
 
@@ -60,42 +44,27 @@
 
 ---
 
-## ⚡ RECENT SYSTEM ACTIVITY
-1. 🚀 Merged PR #1 in [DynamicKarabo/mdnco-portal](https://github.com/DynamicKarabo/mdnco-portal)
-2. 🛠️ Commited to [DynamicKarabo/vukazenzela](https://github.com/DynamicKarabo/vukazenzela)
-3. 🌟 Starred [shadcn/ui](https://github.com/shadcn/ui)
----
-
-## 🏷️ HOLOPIN BADGES
-<p align="center">
-  <a href="https://holopin.io/@DynamicKarabo"><img src="https://holopin.me/DynamicKarabo" alt="@DynamicKarabo's Holopin board"></a>
-</p>
-
----
-
 ## 🎇 FEATURED MISSIONS
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="33%">
         <b>🏠 MDNCO Portal</b><br/>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=mdnco-portal&theme=tokyonight&bg_color=1a1a2e&hide_border=true" /><br/>
         <a href="https://mdnco-portal.vercel.app">Demo</a> | <a href="https://github.com/DynamicKarabo/mdnco-portal">Source</a>
       </td>
-      <td align="center">
-        <b>🌍 Vuka Zenzela</b><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=vukazenzela&theme=tokyonight&bg_color=1a1a2e&hide_border=true" /><br/>
-        <a href="https://vukazenzela.vercel.app">Demo</a> | <a href="https://github.com/DynamicKarabo/vukazenzela">Source</a>
+      <td align="center" width="33%">
+        <b>🤝 Code Collab</b><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=code-collab&theme=tokyonight&bg_color=1a1a2e&hide_border=true" /><br/>
+        <a href="https://github.com/DynamicKarabo/code-collab">Source</a>
+      </td>
+      <td align="center" width="33%">
+        <b>🌍 Vuka Zenzele</b><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=vukazenzele&theme=tokyonight&bg_color=1a1a2e&hide_border=true" /><br/>
+        <a href="https://vukazenzele.vercel.app">Demo</a> | <a href="https://github.com/DynamicKarabo/vukazenzele">Source</a>
       </td>
     </tr>
   </table>
-</div>
-
----
-
-## 💡 DEV WISDOM
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
 </div>
 
 ---
