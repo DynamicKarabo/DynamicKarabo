@@ -1,98 +1,144 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Karabo+Oliphant;Full-Stack+Developer+🚀;Building+amazing+things+✨)](https://git.io/typing-svg)
 
-<div style="background: #1f1f1f; padding: 20px; border-radius: 10px; margin: 10px 0;">
-<b>Hi, I'm Karabo</b>
+---
+
+<div align="center">
+
+### 💻 Full-Stack Developer | Systems Development Student | Tech Enthusiast
+
+**Building scalable web applications with React, TypeScript & modern tech**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/DynamicKarabo)
+[![Email](https://img.shields.io/badge/Email-karabooliphant@ppsolution.co.za-red?style=flat&logo=gmail)](mailto:karabooliphant@ppsolution.co.za)
+
 </div>
 
-<div style="background: #2d2d2d; padding: 15px; border-radius: 8px; margin: 10px 0;">
-Full-Stack Developer | Systems Development Student
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=radical&hide_border=true&langs_count=10)
+
 </div>
 
-<div style="background: #2d2d2d; padding: 15px; border-radius: 8px; margin: 10px 0;">
-Passionate about React, TypeScript & Beautiful UIs
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DynamicKarabo&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
-<div style="background: #2d2d2d; padding: 15px; border-radius: 8px; margin: 10px 0;">
-Building scalable web applications & learning system design
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DynamicKarabo&theme=radical&no-frame=true&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
-<p align="center"> please reach out via <a href="https://github.com/DynamicKarabo">GitHub</a> or email <a href="mailto:karabooliphant@ppsolution.co.za">karabooliphant@ppsolution.co.za</a>
-</p>
+---
 
-### A Full-Stack Developer passionate about Web Development
+## 👨‍💻 About Me
 
-#### Currently building with React, Next.js, and TypeScript
-
-#### Exploring AI integrations and system architecture
-
-#### Always learning new technologies and best practices
-
-#### Open source enthusiast
+- 🎯 **Currently:** Building full-stack web applications with React, Next.js & TypeScript
+- 🌱 **Learning:** Advanced system architecture, cloud solutions & AI integration
+- 💡 **Passionate About:** Clean code, beautiful UIs, and scalable solutions
+- 🤝 **Open To:** Collaborating on open-source projects & innovative web apps
+- 🎨 **Design Tool:** Figma for UI/UX mockups
+- ⚡ **Fun Fact:** I obsess over performance optimization and elegant code
 
 ---
 
-[![Custom badge](https://img.shields.io/badge/STARS%20on%20GitHub-25-brightgreen?style=flat&logo=github)](https://github.com/DynamicKarabo?tab=repositories&sort=stargazers)
-[![Custom badge](https://img.shields.io/badge/FOLLOW-5-blue?style=flat&logo=github)](https://github.com/DynamicKarabo?tab=followers)
+## 🛠️ Tech Stack
 
-- 😄 I'm passionate about **Web Development**, **Full-Stack Engineering**, and **Beautiful UIs**
-- 🔭 I'm currently working on **React**, **Next.js**, and **Full-Stack projects**
-- 🌱 I'm currently learning **Advanced TypeScript**, **System Architecture**, and **Cloud Solutions**
-- 👯 I'm looking to collaborate on **Web Development**, **Open Source**, and **AI Integration**
-- 💬 Ask me about **React**, **TypeScript**, **Node.js**, **TailwindCSS**
-- 🎬 Always exploring new ideas
+<div align="center">
 
----
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="center" style="color: #00d4ff;">Karabo Oliphant</h3>
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3 align="center" style="color: #ff1493;">Full-Stack Developer</h3>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/DynamicKarabo">🐙 GitHub</a> • 
-  <a href="mailto:karabooliphant@ppsolution.co.za">📧 Email</a>
-</p>
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DynamicKarabo&theme=radical&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DynamicKarabo&theme=radical&no-frame=true&column=7" />
-</p>
+<div align="center">
 
----
+[![Karabo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DynamicKarabo&theme=radical&hide_border=true&title_color=00D9FF&line=00D9FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,html,css" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,git,github,figma,vscode" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,vercel,docker" />
-</p>
+</div>
 
 ---
 
-## 🌐 Connect
+## 🎯 What I'm Building
 
-[📧 Email](mailto:karabooliphant@ppsolution.co.za) • [🐙 GitHub](https://github.com/DynamicKarabo)
+- 🚀 **Full-Stack Applications** - React + Node.js + PostgreSQL
+- 🎨 **Beautiful UIs** - TailwindCSS + Figma designs
+- ⚡ **Performance-Optimized** - Webpack, code splitting, lazy loading
+- 🔐 **Secure Systems** - Authentication, encryption, best practices
+- 📱 **Responsive Designs** - Mobile-first approach
+- 🤖 **AI Integration** - Exploring LLM integrations in web apps
 
 ---
 
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/DynamicKarabo">Karabo Oliphant</a>
-</p>
+## 📚 Always Learning
+
+- Advanced TypeScript patterns
+- System design & architecture
+- Kubernetes & container orchestration
+- Machine Learning for web developers
+- DevOps & CI/CD pipelines
+- Cloud infrastructure (AWS, GCP, Azure)
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[**📧 Email**](mailto:karabooliphant@ppsolution.co.za) • [**🐙 GitHub**](https://github.com/DynamicKarabo) • [**💼 LinkedIn**](#) • [**🎬 Portfolio**](#)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work useful, please consider starring my repositories!
+
+**Made with ❤️ by [Karabo Oliphant](https://github.com/DynamicKarabo)**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=DynamicKarabo&color=00D9FF&style=for-the-badge)
+
+</div>
