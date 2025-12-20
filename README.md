@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00FF00&height=250&section=header&text=KARABO%20OLIPHANT&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=000000" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&amp;color=00FF00&amp;height=250&amp;section=header&amp;text=KARABO%20OLIPHANT&amp;fontSize=70&amp;fontColor=000000&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer&amp;descAlignY=55&amp;descSize=20&amp;descColor=000000" width="100%" />
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=Coding+the+Impossible;Specializing+in+Typescript+%26+React;Building+Scalable+Solutions;Always+Learning,+Always+Shipping;" alt="Typing SVG" /></a>
 
@@ -34,7 +34,7 @@
   <br/>
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DynamicKarabo&theme=tokyonight&no-bg=true&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=DynamicKarabo&amp;theme=tokyonight&amp;no-bg=true&amp;column=7" />
   </a>
   
   <br/><br/>
@@ -95,7 +95,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00FF00&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&amp;color=00FF00&amp;height=100&amp;section=footer" width="100%" />
   <h3>Built with ❤️ in South Africa</h3>
   <img src="https://komarev.com/ghpvc/?username=DynamicKarabo&color=00ff00&style=flat-square&label=PROFILE+VIEWS" />
 </div>
