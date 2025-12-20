@@ -14,15 +14,9 @@
 
 ### ⚡ About Me
 
-```javascript
-const karabo = {
-    code: ["TypeScript", "React", "Next.js", "Node.js"],
-    tools: ["Docker", "Supabase", "Git", "Figma"],
-    currentFocus: "Building high-performance web applications",
-    location: "South Africa 🇿🇦",
-    funFact: "I turn coffee into code ☕"
-};
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=🔭+I'm+currently+building+high-performance+web+apps;🌱+I'm+mastering+TypeScript+and+Next.js;🌍+Based+in+South+Africa+🇿🇦;⚡+Fun+fact%3A+I+turn+coffee+into+code+☕" alt="Typing SVG" />
+</div>
 
 ---
 
