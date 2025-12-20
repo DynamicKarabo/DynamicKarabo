@@ -5,7 +5,8 @@
 <div align="center">
   <a href="https://github.com/DynamicKarabo?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/DynamicKarabo?color=236ad3&label=followers&logo=github&style=for-the-badge"/></a>
   <a href="https://github.com/DynamicKarabo"><img alt="stars" src="https://img.shields.io/github/stars/DynamicKarabo?color=236ad3&logo=github&style=for-the-badge"/></a>
-  <img alt="wakatime" src="https://wakatime.com/badge/user/18af8c13-5d4f-48a7-a2c5-c30e2f0e1b8e.svg" />
+<img alt="wakatime" src="https://wakatime.com/badge/user/18af8c13-5d4f-48a7-a2c5-c38e2f0e1b8e.svg" />
+  
 </div>
 
 ---
