@@ -13,33 +13,74 @@
   <img width="100%" src="https://github.com/DynamicKarabo/DynamicKarabo/assets/YOUR_USER_ID/YOUR_IMAGE_ID/terminal-banner.svg" />
 </div>
 
-## 🚀 SYSTEMS DEVELOPMENT ARCHITECT
+## 🚀 20
+ARCHITECT
 
 ```javascript
 const karabo = {
   location: "Gauteng, South Africa 🇿🇦",
   currentFocus: "Building scalable, blazing-fast web applications",
-  learningAt: "DynamicDNA | Systems Development Track",
-  status: "퉰b Actively shipping to production every week",
-  mindset: "🚀 Move fast, deploy faster, learn everything",
-  
-  languages: ["TypeScript", "JavaScript", "Python"],
-  frontend: ["React", "Next.js", "TailwindCSS", "Framer Motion"],
-  backend: ["Node.js", "Express", "Supabase"],
-  databases: ["PostgreSQL", "Redis"],
-  devops: ["Vercel", "GitHub Actions", "Docker basics"],
-  design: ["Figma", "UI/UX thinking"],
-  
-  favoriteQuote: "Code is poetry written in logic"
-};
-```
+  learningAt: "DynamicDNA | 18
+ ## 💫 Who Am I? A Visual Story
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>퉰b DEVELOPER BY DAY</h3>
+        <p>Crafting elegant solutions<br/>to complex problems</p>
+        <img alt="Dev" width="50" src="https://raw.githubusercontent.com/github/explore/80688e430e96b2571e71a16dcf997495c10142fe/topics/javascript/javascript.png" />
+      </td>
+      <td align="center" width="50%">
+        <h3>𓍇 LEARNER BY NIGHT</h3>
+        <p>Deep-diving into new<br/>technologies & frameworks</p>
+        <img alt="Learn" width="50" src="https://raw.githubusercontent.com/github/explore/80688e430e96b2571e71a16dcf997495c10142fe/topics/typescript/typescript.png" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🔥 DEPLOYER</h3>
+        <p>Shipping code to production<br/>like it's my job (it is)</p>
+        <img alt="Deploy" width="50" src="https://raw.githubusercontent.com/github/explore/80688e430e96b2571e71a16dcf997495c10142fe/topics/react/react.png" />
+      </td>
+      <td align="center" width="50%">
+        <h3>🎨 DESIGNER AT HEART</h3>
+        <p>UI/UX isn't an afterthought,<br/>it's the MAIN thought</p>
+        <img alt="Design" width="50" src="https://raw.githubusercontent.com/github/explore/80688e430e96b2571e71a16dcf997495c10142fe/topics/figma/figma.png" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 💯 WHAT SETS ME APART
+## ✨ The Numbers
 
-<table>
-  <tr>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><h2>퉰b</h2><p><b>389</b><br/>Commits<br/>This Year</p></td>
+      <td align="center"><h2>🂦</h2><p><b>25</b><br/>Repositories<br/>Created</p></td>
+      <td align="center"><h2>🚀</h2><p><b>100%</b><br/>Shipping<br/>Rate</p></td>
+      <td align="center"><h2>🌐</h2><p><b>∞</b><br/>Learn<br/>Forever</p></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🇿🇦 LOCATION MATTERS
+
+```
+┌────────────────────┐
+│  Gauteng, South Africa    │
+│  🇿🇦 Built in ZA, Shipped Globally  │
+│  ⚡ Timezone: SAST (UTC +2)        │
+└────────────────────┘
+```
+
+---
+ <tr>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/SPEED-🚀-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/><br/>
       <b>Lightning Fast</b><br/>
