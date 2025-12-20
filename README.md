@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00FF00&height=300&section=header&text=KARABO%20OLIPHANT&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Future&descAlignY=55&descSize=25&descColor=000000" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00FF00&height=250&section=header&text=KARABO%20OLIPHANT&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=000000" width="100%" />
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=Coding+the+Impossible;Specializing+in+Typescript+%26+React;Building+Scalable+Solutions;Always+Learning,+Always+Shipping;" alt="Typing SVG" /></a>
 
@@ -40,7 +40,7 @@ const karabo = {
   <br/>
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DynamicKarabo&theme=tokyonight&no-bg=true&column=7&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=DynamicKarabo&theme=tokyonight&no-bg=true&column=7" />
   </a>
   
   <br/><br/>
@@ -67,12 +67,11 @@ const karabo = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DynamicKarabo/DynamicKarabo/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
-  <p><i>(Note: Snake animation requires a GitHub Action setup to render on the 'output' branch)</i></p>
 </div>
 
 ---
 
-### � Featured Projects
+### 🌟 Featured Projects
 
 <div align="center">
   <table>
