@@ -1,167 +1,178 @@
-<!-- HERO BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Karabo+%F0%9F%A7%AC;Full-Stack+Developer;React+%7C+TypeScript+%7C+Tailwind" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=45&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=120&lines=const+DEV+%3D+%7B;name%3A+%22Karabo+Oliphant%22;status%3A+%22Building+FIRE%22;%7D;" alt="Terminal" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=4000&pause=1200&color=0EA5E9&center=true&width=900&lines=Building+fast%2C+clean%2C+accessible+web+apps;Systems+Development+Learner+%40+DynamicDNA;Always+shipping%2C+always+learning+from+Gauteng+%F0%9F%87%BF%F0%9F%87%A6" alt="Subtitle" />
-</p>
+<div align="center">
+  <a href="https://github.com/DynamicKarabo?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/DynamicKarabo?color=236ad3&label=followers&logo=github&style=for-the-badge"/></a>
+  <a href="https://github.com/DynamicKarabo"><img alt="stars" src="https://img.shields.io/github/stars/DynamicKarabo?color=236ad3&logo=github&style=for-the-badge"/></a>
+</div>
 
 ---
 
-## 🧬 About me
+<div align="center">
+  <img width="100%" src="https://github.com/DynamicKarabo/DynamicKarabo/assets/YOUR_USER_ID/YOUR_IMAGE_ID/terminal-banner.svg" />
+</div>
 
-```yaml
-name: "Karabo Oliphant"
-aka: "DynamicKarabo"
-role: "Systems Development Learner @ DynamicDNA"
-location: "Ennerdale, Gauteng, South Africa 🇿🇦"
+## 🚀 SYSTEMS DEVELOPMENT ARCHITECT
 
-currently:
-  - "Building full-stack apps with React + TypeScript + Supabase"
-  - "Deploying everything on Vercel"
-  - "Learning cloud architecture & databases"
-
-values:
-  - "Clean, minimal code"
-  - "User-centered design"
-  - "Learning in public"
-  - "Fast feedback loops"
-
-fun_fact: "If it's not deployed on Vercel, does it even exist? 🚀"
+```javascript
+const karabo = {
+  location: "Gauteng, South Africa 🇿🇦",
+  currentFocus: "Building scalable, blazing-fast web applications",
+  learningAt: "DynamicDNA | Systems Development Track",
+  status: "퉰b Actively shipping to production every week",
+  mindset: "🚀 Move fast, deploy faster, learn everything",
+  
+  languages: ["TypeScript", "JavaScript", "Python"],
+  frontend: ["React", "Next.js", "TailwindCSS", "Framer Motion"],
+  backend: ["Node.js", "Express", "Supabase"],
+  databases: ["PostgreSQL", "Redis"],
+  devops: ["Vercel", "GitHub Actions", "Docker basics"],
+  design: ["Figma", "UI/UX thinking"],
+  
+  favoriteQuote: "Code is poetry written in logic"
+};
 ```
 
 ---
 
-## 🚀 Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0F5D8A?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DynamicKarabo&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DynamicKarabo&theme=radical&no-frame=true&row=1&column=6&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🎯 Featured Projects
+## 💯 WHAT SETS ME APART
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <h3>🏠 MDNCO Portal</h3>
-      <p><strong>Accounting Portal</strong></p>
-      <p>React • TypeScript • TailwindCSS • Supabase • Vercel</p>
-      <p>
-        <a href="https://mdnco-portal.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-00D4FF?style=flat-square&logo=vercel" />
-        </a>
-        <a href="https://github.com/DynamicKarabo/mdnco-portal" target="_blank">
-          <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" />
-        </a>
-      </p>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/SPEED-🚀-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/><br/>
+      <b>Lightning Fast</b><br/>
+      Web Vitals optimized<br/>Zero unused CSS<br/>Images compressed
     </td>
-    <td width="50%" align="center">
-      <h3>🌍 Vuka Zenzela</h3>
-      <p><strong>Community Web App</strong></p>
-      <p>React • TypeScript • Modern UX • Accessibility First</p>
-      <p>
-        <a href="https://vukazenzela.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-00D4FF?style=flat-square&logo=vercel" />
-        </a>
-        <a href="https://github.com/DynamicKarabo/vukazenzela" target="_blank">
-          <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" />
-        </a>
-      </p>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/DESIGN-🎨-4ECDC4?style=for-the-badge&labelColor=1a1a2e"/><br/>
+      <b>Beautiful UX</b><br/>
+      Figma to code pipeline<br/>Accessible by default<br/>Dark mode native
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/SCALE-퉰b-95E1D3?style=for-the-badge&labelColor=1a1a2e"/><br/>
+      <b>Production Ready</b><br/>
+      Tested thoroughly<br/>Monitored closely<br/>Zero downtime deploys
     </td>
   </tr>
 </table>
 
 ---
 
-## 💻 What I'm Into
+## 🧪 TECH ARSENAL
 
-- 🎨 **UI/UX Design** with Figma + Handoff to Code
-- ⚡ **Performance Optimization** & Web Vitals
-- 🔐 **Secure, scalable backends** with Supabase & PostgreSQL
-- 🚀 **Rapid deployment** workflows (Vercel, GitHub Actions)
-- 📱 **Responsive, accessible** web experiences
-- 🧪 **Testing & QA** with Jest & React Testing Library
+### Languages
+<div>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css" />
+</div>
 
----
+### Frontend Stack
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vscode" />
+</div>
 
-## 🌐 Let's Connect
+### Backend & Database
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,postman" />
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/karabooliphant" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:karabo.oliphant@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/DynamicKarabo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/DynamicKarabo" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+### DevOps & Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=github,vercel,figma,git" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DynamicKarabo&color=22c55e&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+## 📊 LIVE GITHUB STATS
 
-<p align="center">
-  <b>Made with 💚 by Karabo | Always learning, always shipping</b>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00&border_radius=10&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=dark&bg_color=1a1a2e&title_color=00ff00&text_color=ffffff&border_color=00ff00&border_radius=10" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DynamicKarabo&theme=dark&background=1a1a2e&stroke=00ff00&ring=00ff00&fire=FF6B6B&currStreakNum=00ff00&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff" />
+</div>
+
+---
+
+## 🎇 FEATURED PROJECTS
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="48%" align="center">
+        <img src="https://img.shields.io/badge/MDNCO%20Portal-FF6B6B?style=for-the-badge&logoColor=white" />
+        <br/><br/>
+        <b>🏠 Accounting Portal</b>
+        <p>Professional accounting dashboard built for modern businesses</p>
+        <p>🚧 React • TypeScript • TailwindCSS • Supabase</p>
+        <p>퉰b Vercel | 📄 Real-time data sync | 🔐 Enterprise security</p>
+        <br/>
+        <a href="https://mdnco-portal.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE%20DEMO-00D4FF?style=for-the-badge"/></a>
+        <a href="https://github.com/DynamicKarabo/mdnco-portal" target="_blank"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github"/></a>
+      </td>
+      <td width="4%"></td>
+      <td width="48%" align="center">
+        <img src="https://img.shields.io/badge/Vuka%20Zenzela-4ECDC4?style=for-the-badge&logoColor=white" />
+        <br/><br/>
+        <b>🌍 Community Web App</b>
+        <p>Empowering communities through beautiful, accessible tech</p>
+        <p>🚧 React • TypeScript • Modern UX • A11y First</p>
+        <p>퉰b Vercel | 🎨 Figma design system | 񆂖 Responsive</p>
+        <br/>
+        <a href="https://vukazenzela.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE%20DEMO-00D4FF?style=for-the-badge"/></a>
+        <a href="https://github.com/DynamicKarabo/vukazenzela" target="_blank"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📄 LATEST BLOG POSTS
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 Building React apps that don't suck
+- 퉰b TypeScript patterns for scale
+- 🚀 Deploying to Vercel like a pro
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🐕 INTERESTS & PASSIONS
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🎨 Design Systems</b><br/>Component libraries<br/>Design to code</td>
+      <td><b>⚡ Performance</b><br/>Web Vitals<br/>Bundle optimization</td>
+      <td><b>🔐 Scalability</b><br/>Architecture<br/>DevOps</td>
+      <td><b>📵 Open Source</b><br/>Contributing<br/>Building tools</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🤝 LET'S CONNECT
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/karabooliphant" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=1a1a2e"/></a>
+  <a href="https://twitter.com/DynamicKarabo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20&labelColor=1a1a2e"/></a>
+  <a href="mailto:karabo.oliphant@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=1a1a2e"/></a>
+  <a href="https://github.com/DynamicKarabo" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&labelColor=1a1a2e"/></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DynamicKarabo&color=00ff00&style=flat-square&label=PROFILE+VIEWS" />
+</div>
+
+<div align="center">
+  <p><b>퉰b Made with pure determination and lots of coffee</b></p>
+  <p><i>"The best time to write code was yesterday. The second best time is now."</i></p>
+  <p><code>while(learning) { keep_building(); }</code></p>
+</div>
