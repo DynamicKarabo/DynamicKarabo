@@ -15,7 +15,7 @@
 ### ⚡ About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=🔭+I'm+currently+building+high-performance+web+apps;🌱+I'm+mastering+TypeScript+and+Next.js;🌍+Based+in+South+Africa+🇿🇦;⚡+Fun+fact%3A+I+turn+coffee+into+code+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=%F0%9F%94%AD%20I'm%20currently%20building%20high-performance%20web%20apps%3B%F0%9F%8C%B1%20I'm%20mastering%20TypeScript%20and%20Next.js%3B%F0%9F%8C%8D%20Based%20in%20South%20Africa%20%F0%9F%87%BF%F0%9F%87%A6%3B%E2%9A%A1%20Fun%20fact%3A%20I%20turn%20coffee%20into%20code%20%E2%98%95" alt="Typing SVG" />
 </div>
 
 ---
