@@ -1,13 +1,20 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=karmic&color=00FF00&height=250&section=header&text=KARABO%20OLIPHANT&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%20of%20FIRE&descAlignY=60&descSize=20" width="100%" />
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=const+DEV+%3D+%7B;name%3A+%22Karabo+Oliphant%22;status%3A+%22Building+FIRE%22;focus%3A+%22TypeScript+%2B+React%22;%7D;" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/karabooliphant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/DynamicKarabo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="mailto:karabo.oliphant@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
 </div>
 
 ---
 
 ## 🏆 ACHIEVEMENT UNLOCKED
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DynamicKarabo&theme=tokyonight&no-bg=true&margin-w=15&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DynamicKarabo&theme=tokyonight&no-bg=true&column=5" />
 </div>
 
 ---
@@ -21,14 +28,18 @@
 
 ## 📊 VITAL SIGNS (STATS)
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1a1a2e" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1a1a2e" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1a1a2e" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1a1a2e" /></td>
+    </tr>
+  </table>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DynamicKarabo&theme=tokyonight&background=1a1a2e&hide_border=true&stroke=00ff00&ring=00ff00&fire=FF6B6B" width="100%" />
 </div>
 
 ### 🐍 CONTRIBUTION SNAKE
 <div align="center">
-  <img src="https://github.com/DynamicKarabo/DynamicKarabo/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/DynamicKarabo/DynamicKarabo/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </div>
 
 ---
@@ -37,12 +48,12 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
+      <td align="center">
         <b>🏠 MDNCO Portal</b><br/>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=mdnco-portal&theme=tokyonight&bg_color=1a1a2e&hide_border=true" /><br/>
         <a href="https://mdnco-portal.vercel.app">Demo</a> | <a href="https://github.com/DynamicKarabo/mdnco-portal">Source</a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <b>🌍 Vuka Zenzela</b><br/>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=vukazenzela&theme=tokyonight&bg_color=1a1a2e&hide_border=true" /><br/>
         <a href="https://vukazenzela.vercel.app">Demo</a> | <a href="https://github.com/DynamicKarabo/vukazenzela">Source</a>
