@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=45&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=120&lines=const+DEV+%3D+%7B;name%3A+%22Karabo+Oliphant%22;status%3A+%22Building+FIRE%22;%7D;" alt="Terminal" />
 </div>
   
-</div>
-
 ---
 
 ## 💫 Who Am I? The Real Breakdown
