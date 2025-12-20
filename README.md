@@ -142,3 +142,96 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=DynamicKarabo&color=00D9FF&style=for-the-badge)
 
 </div>
+
+
+---
+
+## 🎯 GitHub Analytics & Stats
+
+<div align="center">
+
+[![GitHub Streak Stats](https://streak-stats.demolab.com?user=DynamicKarabo&theme=algolia&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=ffffff&title_color=00d9ff&icon_color=00d9ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00d9ff)
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DynamicKarabo&theme=algolia&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=DynamicKarabo&theme=algolia&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 💾 Tech Stack
+
+<div align="center">
+
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📈 More Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=DynamicKarabo&style=for-the-badge&color=00d9ff)
+
+</div>
+
+---
+
+## 🎨 Let's Build Something Cool Together!
+
+<div align="center">
+
+**Open to collaborations & cool projects** 💼
+
+Let's create something extraordinary! Feel free to reach out if you have any ideas.
+
+[![Open in Figma](https://img.shields.io/badge/-Open%20in%20Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B9D?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://dynamickarabo.dev)
+
+</div>
+
+---
+
+### ✨ Fun Fact
+
+```
+💻 Full-Stack Developer || 🎮 Tech Enthusiast || 🚀 Innovation Seeker
+🌍 Building the future, one line of code at a time
+⚡ Always learning, always growing, always coding
+```
