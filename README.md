@@ -5,6 +5,7 @@
 <div align="center">
   <a href="https://github.com/DynamicKarabo?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/DynamicKarabo?color=236ad3&label=followers&logo=github&style=for-the-badge"/></a>
   <a href="https://github.com/DynamicKarabo"><img alt="stars" src="https://img.shields.io/github/stars/DynamicKarabo?color=236ad3&logo=github&style=for-the-badge"/></a>
+  <img alt="wakatime" src="https://wakatime.com/badge/user/18af8c13-5d4f-48a7-a2c5-c30e2f0e1b8e.svg" />
 </div>
 
 ---
@@ -17,11 +18,17 @@
       <h3>퉰b DEVELOPER</h3>
       <p>Building scalable, clean<br/>TypeScript & React apps</p>
       <img src="https://raw.githubusercontent.com/github/explore/80688e430e96b2571e71a16dcf997495c10142fe/topics/react/react.png" width="40" />
+      <p>
+        <code>TypeScript</code> <code>React</code> <code>Next.js</code>
+      </p>
     </td>
     <td align="center" width="50%">
       <h3>𓍇 LEARNER</h3>
       <p>Constantly pushing boundaries<br/>with new frameworks & tools</p>
       <img src="https://raw.githubusercontent.com/github/explore/80688e430e96b2571e71a16dcf997495c10142fe/topics/typescript/typescript.png" width="40" />
+      <p>
+        <code>Web APIs</code> <code>Design Patterns</code> <code>DevOps</code>
+      </p>
     </td>
   </tr>
   <tr>
@@ -29,11 +36,17 @@
       <h3>🚀 SHIPPER</h3>
       <p>Code to production<br/>in hours, not weeks</p>
       <img src="https://raw.githubusercontent.com/github/explore/80688e430e96b2571e71a16dcf997495c10142fe/topics/vercel/vercel.png" width="40" />
+      <p>
+        <code>Vercel</code> <code>GitHub Actions</code> <code>CI/CD</code>
+      </p>
     </td>
     <td align="center" width="50%">
       <h3>🎨 DESIGNER</h3>
       <p>Beautiful UX is non-negotiable<br/>Accessibility first, always</p>
       <img src="https://raw.githubusercontent.com/github/explore/80688e430e96b2571e71a16dcf997495c10142fe/topics/figma/figma.png" width="40" />
+      <p>
+        <code>Figma</code> <code>UI/UX</code> <code>A11y</code>
+      </p>
     </td>
   </tr>
 </table>
@@ -46,15 +59,21 @@
   <tr>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/SPEED-🚀-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/><br/>
-      <b>Lightning Fast</b><br/>Web Vitals optimized<br/>Zero unused CSS<br/>Images compressed
+      <b>Lightning Fast</b><br/>
+      <progress value="95" max="100" style="width:100%"></progress>
+      <p><small>Web Vitals optimized<br/>Zero unused CSS<br/>Images compressed</small></p>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/DESIGN-🎨-4ECDC4?style=for-the-badge&labelColor=1a1a2e"/><br/>
-      <b>Beautiful UX</b><br/>Figma to code pipeline<br/>Accessible by default<br/>Dark mode native
+      <b>Beautiful UX</b><br/>
+      <progress value="92" max="100" style="width:100%"></progress>
+      <p><small>Figma to code pipeline<br/>Accessible by default<br/>Dark mode native</small></p>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/SCALE-퉰b-95E1D3?style=for-the-badge&labelColor=1a1a2e"/><br/>
-      <b>Production Ready</b><br/>Tested thoroughly<br/>Monitored closely<br/>Zero downtime deploys
+      <b>Production Ready</b><br/>
+      <progress value="97" max="100" style="width:100%"></progress>
+      <p><small>Tested thoroughly<br/>Monitored closely<br/>Zero downtime deploys</small></p>
     </td>
   </tr>
 </table>
@@ -95,6 +114,19 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DynamicKarabo&theme=dark&background=1a1a2e&stroke=00ff00&ring=00ff00&fire=FF6B6B&currStreakNum=00ff00&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff" />
 </div>
+
+---
+
+## 📋 SKILL METRICS
+
+| Skill | Proficiency | Experience |
+|-------|------------|------------|
+| **React.js** | ████████░ 90% | 2+ years |
+| **TypeScript** | █████████ 95% | 1.5+ years |
+| **TailwindCSS** | ████████░ 88% | 2+ years |
+| **Node.js** | ███████░░ 75% | 1+ year |
+| **Supabase** | ███████░░ 80% | 1+ year |
+| **Problem Solving** | █████████ 99% | Daily |
 
 ---
 
@@ -157,6 +189,20 @@
 
 ---
 
+## 👻 DAILY DEV STATS
+
+```
+📅 Last Updated: Every 24 hours (auto)
+
+ Today's Activity:
+  ✅ Commits: 3+
+  퉰b Push to prod: 1x
+  📚 Learning: TypeScript Advanced Patterns
+  🚀 Current Focus: Fullstack TypeScript Apps
+```
+
+---
+
 ## 🤝 LET'S CONNECT
 
 <div align="center">
@@ -176,4 +222,5 @@
   <p><b>퉰b Made with pure determination and lots of coffee</b></p>
   <p><i>"The best time to write code was yesterday. The second best time is now."</i></p>
   <p><code>while(learning) { keep_building(); }</code></p>
+  <p>👏 Thanks for visiting my GitHub profile! Don't forget to star if you like what you see!</p>
 </div>
