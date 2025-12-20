@@ -54,6 +54,18 @@
 </div>
 
 ---
+## 📝 LATEST BLOG POSTS
+<div align="center">
+  <p>Sharing insights on development, FIRE, and tech trends. Check out my latest:</p>
+  <ul>
+    <li><a href="https://your-blog-link.com/post1">Mastering TypeScript in React Apps</a> - Tips and best practices.</li>
+    <li><a href="https://your-blog-link.com/post2">Road to FIRE: Side Hustles for Devs</a> - My journey and advice.</li>
+    <!-- Add more as you publish -->
+  </ul>
+  <p><a href="https://your-blog-link.com">View All Posts</a></p>
+</div>
+
+---
 ### 🐍 CONTRIBUTION SNAKE
 <div align="center">
   <img src="https://raw.githubusercontent.com/DynamicKarabo/DynamicKarabo/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
@@ -75,6 +87,18 @@
         <a href="https://vukazenzela.vercel.app">Demo</a> | <a href="https://github.com/DynamicKarabo/vukazenzela">Source</a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <b>🚀 Another Project</b><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=another-repo&theme=tokyonight&bg_color=1a1a2e&hide_border=true" /><br/>
+        <a href="https://demo-link">Demo</a> | <a href="https://github.com/DynamicKarabo/another-repo">Source</a>
+      </td>
+      <td align="center">
+        <b>💼 One More Project</b><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=more-repo&theme=tokyonight&bg_color=1a1a2e&hide_border=true" /><br/>
+        <a href="https://demo-link">Demo</a> | <a href="https://github.com/DynamicKarabo/more-repo">Source</a>
+      </td>
+    </tr>
     <!-- Add more rows here when you have additional projects to showcase -->
   </table>
 </div>
@@ -83,6 +107,13 @@
 ## 💡 DEV WISDOM
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+</div>
+
+---
+## 📬 GET IN TOUCH
+<div align="center">
+  <p>Let's connect! Open to collaborations, advice on FIRE, or just chatting tech.</p>
+  <a href="https://calendly.com/your-calendly">Schedule a Call</a> | <a href="https://your-portfolio.com">Portfolio</a>
 </div>
 
 ---
