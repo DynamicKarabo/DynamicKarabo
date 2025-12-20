@@ -20,9 +20,25 @@
 ---
 
 ## 🧪 TECH ARSENAL
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,js,react,nextjs,tailwind,nodejs,postgres,supabase,express,vercel,github,git,docker,figma,postman,vscode,linux,githubactions&perline=9" />
-</div>
+
+### 💻 Programming & Markup
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🧰 Frameworks & Cloud
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
 ---
 
@@ -41,6 +57,19 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/DynamicKarabo/DynamicKarabo/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </div>
+
+---
+
+## ⚡ RECENT SYSTEM ACTIVITY
+1. 🚀 Merged PR #1 in [DynamicKarabo/mdnco-portal](https://github.com/DynamicKarabo/mdnco-portal)
+2. 🛠️ Commited to [DynamicKarabo/vukazenzela](https://github.com/DynamicKarabo/vukazenzela)
+3. 🌟 Starred [shadcn/ui](https://github.com/shadcn/ui)
+---
+
+## 🏷️ HOLOPIN BADGES
+<p align="center">
+  <a href="https://holopin.io/@DynamicKarabo"><img src="https://holopin.me/DynamicKarabo" alt="@DynamicKarabo's Holopin board"></a>
+</p>
 
 ---
 
