@@ -1,82 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=180&section=header&text=%E2%96%88%E2%96%88%20DYNAMIC%20KARABO%20%E2%96%88%E2%96%88&fontSize=60&fontColor=00FF00&fontAlignY=40&animation=twinkling" width="100%" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=const+ARCHITECT+%3D+%7B;status%3A+%22Building+FIRE%22;mode%3A+%22Clean+Architecture%22;%7D;" alt="Terminal Typing" />
+  <img src="https://capsule-render.vercel.app/render?type=karmic&color=00FF00&height=250&section=header&text=KARABO%20OLIPHANT&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%20of%20FIRE&descAlignY=60&descSize=20" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=const+DEV+%3D+%7B;name%3A+%22Karabo+Oliphant%22;status%3A+%22Building+FIRE%22;focus%3A+%22TypeScript+%2B+React%22;%7D;" alt="Typing SVG" />
 
   <p align="center">
-    <code>[ SYSTEM: ONLINE ]</code> • <code>[ ACCESS: ARCHITECT ]</code> • <code>[ NODE: SOUTH_AFRICA ]</code>
-  </p>
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/karabooliphant"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=000000"/></a>
-    <a href="https://twitter.com/DynamicKarabo"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00FF00&labelColor=000000"/></a>
-    <a href="mailto:karabo.oliphant@outlook.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=000000"/></a>
+    <a href="https://www.linkedin.com/in/karabooliphant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/DynamicKarabo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="mailto:karabo.oliphant@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 </div>
 
 ---
 
-## 🏆 RECOGNITION_LOGS
+## 🏆 ACHIEVEMENT UNLOCKED
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DynamicKarabo&theme=matrix&no-bg=true&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DynamicKarabo&theme=tokyonight&no-bg=true&column=5" />
 </div>
 
 ---
 
-## ⚔️ TECH STACK BATTLEGROUND
-
-| STATUS | MODULE | LEVEL | ARCHITECT_NOTES |
-| :--- | :--- | :--- | :--- |
-| **CONQUERED** | `TypeScript / React` | `95%` | Strict-mode infrastructure. |
-| **CONQUERED** | `Next.js / Tailwind` | `90%` | Atomic Design master. |
-| **BATTLING** | `PostgreSQL / DB` | `80%` | Query optimization & Indexing. |
-| **BATTLING** | `System Design` | `75%` | Scalable patterns & Microservices. |
-| **SCOUTING** | `GraphQL / Web3` | `20%` | Analyzing future protocols. |
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
-</div>
-
----
-
-## 💻 CORE_INFRASTRUCTURE
+## 🧪 TECH ARSENAL
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript,js,react,nextjs,tailwind,nodejs,postgres,supabase,express,vercel,github,git,docker,figma,postman,vscode,linux,githubactions&perline=9" />
 </div>
 
 ---
 
-## 📡 SYSTEM_DIAGNOSTICS
+## 📊 VITAL SIGNS (STATS)
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1a1a2e" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1a1a2e" /></td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DynamicKarabo&theme=matrix&background=000000&hide_border=true&stroke=00ff00&ring=00ff00&fire=00FF00" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DynamicKarabo&theme=tokyonight&background=1a1a2e&hide_border=true&stroke=00ff00&ring=00ff00&fire=FF6B6B" width="100%" />
 </div>
 
-### 🐍 CONTRIBUTION_SNAKE
+### 🐍 CONTRIBUTION SNAKE
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DynamicKarabo/DynamicKarabo/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/DynamicKarabo/DynamicKarabo/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </div>
 
 ---
 
-## 🎇 DEPLOYED_MISSIONS
+## 🎇 FEATURED MISSIONS
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <code>[ PROJECT: MDNCO_PORTAL ]</code><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=mdnco-portal&theme=matrix&bg_color=000000&hide_border=true" /><br/>
-        <a href="https://mdnco-portal.vercel.app">DECODE_DEMO</a> | <a href="https://github.com/DynamicKarabo/mdnco-portal">SRC_CODE</a>
+        <b>🏠 MDNCO Portal</b><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=mdnco-portal&theme=tokyonight&bg_color=1a1a2e&hide_border=true" /><br/>
+        <a href="https://mdnco-portal.vercel.app">Demo</a> | <a href="https://github.com/DynamicKarabo/mdnco-portal">Source</a>
       </td>
       <td align="center">
-        <code>[ PROJECT: VUKA_ZENZELA ]</code><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=vukazenzela&theme=matrix&bg_color=000000&hide_border=true" /><br/>
-        <a href="https://vukazenzela.vercel.app">DECODE_DEMO</a> | <a href="https://github.com/DynamicKarabo/vukazenzela">SRC_CODE</a>
+        <b>🌍 Vuka Zenzela</b><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=vukazenzela&theme=tokyonight&bg_color=1a1a2e&hide_border=true" /><br/>
+        <a href="https://vukazenzela.vercel.app">Demo</a> | <a href="https://github.com/DynamicKarabo/vukazenzela">Source</a>
       </td>
     </tr>
   </table>
@@ -84,15 +64,15 @@
 
 ---
 
-## 🛠️ ARCHITECTURAL_CONFIG.JSON
-```json
-{
-  "core_patterns": ["Atomic Design", "Clean Architecture", "DRY"],
-  "infrastructure": {
-    "hosting": "Vercel",
-    "database": "Supabase / PostgreSQL",
-    "ci_cd": "GitHub Actions"
-  },
-  "current_sprint": "Building FIRE Ecosystem",
-  "security_protocol": "A11y-First / Type-Safe"
-}
+## 💡 DEV WISDOM
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00FF00&height=120&section=footer" width="100%" />
+  <h3>🇿🇦 Built in SA | Shipped Globally</h3>
+  <img src="https://komarev.com/ghpvc/?username=DynamicKarabo&color=00ff00&style=flat-square&label=PROFILE+VIEWS" />
+</div>
