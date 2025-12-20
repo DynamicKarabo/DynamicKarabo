@@ -6,6 +6,21 @@
 
 ## 💫 Who Am I? The Real Breakdown
 
+### 퉰b DEVELOPER
+Building scalable, clean TypeScript & React apps
+**Stack:** TypeScript, React, Next.js
+
+### 𓍇 LEARNER
+Constantly pushing boundaries with new frameworks & tools
+**Focus:** Web APIs, Design Patterns, DevOps
+
+### 🚀 SHIPPER
+Code to production in hours, not weeks
+**Tools:** Vercel, GitHub Actions, CI/CD
+
+### 🎨 DESIGNER
+Beautiful UX is non-negotiable, Accessibility first, always
+**Expertise:** Figma, UI/UX, Accessibility (A11y)
 <table>
   <tr>
     <td align="center" width="50%">
