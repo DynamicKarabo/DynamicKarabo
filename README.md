@@ -221,6 +221,127 @@
 <div align="center">
   <p><b>퉰b Made with pure determination and lots of coffee</b></p>
   <p><i>"The best time to write code was yesterday. The second best time is now."</i></p>
+
+  ## 📚 MY LEARNING ROADMAP
+
+```
+2025 Goals:
+  ✅ Master Full-Stack TypeScript
+  📑 GraphQL & Advanced Node.js
+  📑 System Design & Architecture
+  📑 Open Source Contributions
+  📑 1000 GitHub followers
+```
+
+---
+
+## 🟃 RECENT ACTIVITY
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=DynamicKarabo&theme=xcode&bg_color=1a1a2e&color=00ff00&line=00ff00&point=ff6b6b&hide_border=true" />
+</div>
+
+---
+
+## 🛠 TECH STACK BY LEVEL
+
+### 💪 Expert
+- ✅ React.js - Building complex SPAs
+- ✅ TypeScript - Type-safe code
+- ✅ TailwindCSS - Rapid UI development
+
+### 퉰b Advanced
+- 퉰b Next.js - Full-stack applications
+- 퉰b Node.js - Backend APIs
+- 퉰b PostgreSQL - Database design
+
+### 🎨 Learning
+- 🚀 GraphQL - API design
+- 🚀 System Design - Architecture
+- 🚀 DevOps - CI/CD pipelines
+
+---
+
+## 🌟 ACHIEVEMENTS UNLOCKED
+
+- 🌐 **GitHub Explorer** - Starred 50+ repositories
+- 📄 **README Master** - Crafted beautiful documentation
+- 퉰b **Contribution Streak** - 7+ day streak maintained
+- 🚀 **Shipping Speed** - Deploy to production in <1 hour
+- 🎨 **Design Sense** - Created 100+ UI components
+- 🔐 **Security First** - Zero production vulnerabilities
+
+---
+
+## 🐟 QUICK STATS
+
+| Metric | Value |
+|--------|-------|
+| **Years Coding** | 3+ years |
+| **Projects Built** | 25+ |
+| **Code Lines Written** | 50,000+ |
+| **Bugs Fixed** | 500+ |
+| **Coffee Cups** | ∞ |
+| **Sleep Hours** | Minimal |
+| **Motivation Level** | 🔥🔥🔥🔥🔥 |
+
+---
+
+## 🎪 FUN FACTS
+
+```
+🚀 I code like I'm running out of time
+💫 My debugging skills are legendary
+🎨 I can turn coffee into code
+🙋 Rubber duck debugging is my best friend
+🚀 I commit more than I sleep
+🚀 TypeScript is my love language
+```
+
+---
+
+## 🔏 DEV TIMELINE
+
+- **2022** - Started learning React & TypeScript
+- **2023** - First production app deployed
+- **2024** - Building multiple projects, learning backend
+- **2025** - Full-stack mastery & open source contributor
+
+---
+
+## 📔 COMING SOON
+
+> Sharing knowledge on:
+> - React patterns & best practices
+> - TypeScript advanced types
+> - Deployment strategies
+> - Performance optimization
+
+---
+
+## 🐜 DEVELOPER WISDOM
+
+> "The best time to deploy was yesterday.
+> The second best time is now."
+>
+> — *Every Developer Ever*
+
+---
+
+## 👨‍💻 CURRENTLY BUILDING
+
+- 🔨 **OpenSource Project**
+- 🎨 **UI Component Library**
+- 🚀 **Advanced Node.js Patterns**
+- 퉰b **Technical Blog Posts**
+
+---
+
+<div align="center">
+  <p><strong>Thanks for visiting! 🙋</strong></p>
+  <p><em>Let's build something amazing together</em></p>
+  <code>return developer.build(greatThings).deploy(everywhere).celebrate();</code>
+</div>
   <p><code>while(learning) { keep_building(); }</code></p>
   <p>👏 Thanks for visiting my GitHub profile! Don't forget to star if you like what you see!</p>
 </div>
