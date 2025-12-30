@@ -1,46 +1,42 @@
-# 🚀 **KARABO OLIPHANT**
+# 🚀 KARABO OLIPHANT
 
-### **Senior Web3 & Full-Stack Engineer**
+### Senior Web3 & Full-Stack Engineer
 
 *Remote-Ready • Open to Global Opportunities • Available Immediately*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karabo-oliphant/)
 [![Email](https://img.shields.io/badge/Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karabooliphant@ppsolution.co.za)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://web3-dev-portfolio.vercel.app)
-[![Hire Me](https://img.shields.io/badge/Hire_Me_Remotely-10B981?style=for-the-badge&logo=handshake&logoColor=white)](#-immediately-available-for)
+[![Hire Me](https://img.shields.io/badge/Hire_Me_Remotely-10B981?style=for-the-badge&logo=handshake&logoColor=white)](#-lets-connect)
 
 ---
 
-## 🎯 **About Me**
+## 🎯 About Me
 
-```typescript
-const karabo: Web3Developer = {
-  location: "South Africa (Remote-First)",
-  status: "Actively seeking Web3 roles",
-  focus: "React dApps • Smart Contracts • DeFi • AI Agents",
-  availability: "Immediate start • Full-time remote",
-  strengths: [
-    "Production-grade React/TypeScript dApps",
-    "Ethereum/Solana smart contract integration",
-    "Full-stack Web3 architecture",
-    "Real-time AI/Blockchain systems",
-    "Enterprise-grade code quality"
-  ],
-  hiringProcessReady: {
-    technicalTask: "Code review & optimization expert",
-    technicalInterview: "Deep Web3 architecture discussions",
-    culturalFit: "Async/remote workflow specialist"
-  }
-};
-```
+I build production-ready Web3 applications with React, TypeScript, and smart contract integration. Currently seeking remote roles where I can contribute to decentralized infrastructure, DeFi protocols, or blockchain-powered AI systems.
 
-> **TL;DR:** I build production-ready Web3 applications with React, TypeScript, and smart contract integration. Currently seeking remote roles where I can contribute to decentralized infrastructure, DeFi protocols, or blockchain-powered AI systems.
+**Location:** South Africa (Remote-First)  
+**Status:** Actively seeking Web3 roles  
+**Focus:** React dApps • Smart Contracts • DeFi • AI Agents  
+**Availability:** Immediate start • Full-time remote
+
+**Core Strengths:**
+- Production-grade React/TypeScript dApps
+- Ethereum/Solana smart contract integration
+- Full-stack Web3 architecture
+- Real-time AI/Blockchain systems
+- Enterprise-grade code quality
+
+**Hiring Process Ready:**
+- Technical Task: Code review & optimization expert
+- Technical Interview: Deep Web3 architecture discussions
+- Cultural Fit: Async/remote workflow specialist
 
 ---
 
-## 🛠 **Technical Arsenal**
+## 🛠 Technical Arsenal
 
-### **Blockchain & Web3**
+### Blockchain & Web3
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -50,7 +46,7 @@ const karabo: Web3Developer = {
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-8C8C8C?style=for-the-badge)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge)
 
-### **Frontend Excellence**
+### Frontend Excellence
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -58,7 +54,7 @@ const karabo: Web3Developer = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)
 
-### **Backend & DevOps**
+### Backend & DevOps
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -69,145 +65,131 @@ const karabo: Web3Developer = {
 
 ---
 
-## 📈 **GitHub Impact**
-
-<table>
-<tr>
-<td width="50%">
-
-**Development Activity**
+## 📈 GitHub Impact
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=8b5cf6&text_color=c4b5fd&count_private=true&include_all_commits=true)
 
-</td>
-<td width="50%">
-
-**Language Expertise**
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c4b5fd&hide=html,css&langs_count=6)
 
-</td>
-</tr>
-</table>
-
-**🔥 Contribution Streak**
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=DynamicKarabo&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=8b5cf6&currStreakLabel=c4b5fd)
-
-**🏆 Achievement Unlocked**
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DynamicKarabo&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ---
 
-## 🏆 **Showcase Projects**
+## 🏆 Showcase Projects
 
-### **🎯 Web3 Developer Portfolio & Interview Simulator**
+### 🎯 Web3 Developer Portfolio & Interview Simulator
 
-*A professional platform demonstrating React Web3 skills for remote job applications*
+A professional platform demonstrating React Web3 skills for remote job applications
 
-```typescript
-// Directly addresses typical Web3 hiring processes
-const interviewReady = {
-  codeReview: "Interactive code review simulator with PDF export",
-  walletIntegration: "Multi-chain wallet connection (MetaMask, WalletConnect)",
-  smartContracts: "Ethereum contract interaction simulation",
-  technicalTask: "Practice environment for coding challenges",
-  submission: "Export as PDF/Google Docs (matches job requirements)"
-};
-```
+**Key Features:**
+- Interactive code review simulator with PDF export
+- Multi-chain wallet connection (MetaMask, WalletConnect)
+- Ethereum contract interaction simulation
+- Practice environment for coding challenges
+- Export as PDF/Google Docs (matches job requirements)
 
-> **Why this matters:** This project directly simulates the technical tasks from Web3 job descriptions, showing I understand the hiring process and can deliver exactly what companies need.
+**Why this matters:** This project directly simulates the technical tasks from Web3 job descriptions, showing I understand the hiring process and can deliver exactly what companies need.
 
 [![View Project](https://img.shields.io/badge/🚀_Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://web3-dev-portfolio.vercel.app)
 [![View Code](https://img.shields.io/badge/📁_Source_Code-1e1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DynamicKarabo/web3-dev-portfolio)
 
 ---
 
-### **🤖 Agent Forge**
+### 🤖 Agent Forge
 
-*Visual multi-agent orchestration platform with real-time AI inference*
+Visual multi-agent orchestration platform with real-time AI inference
 
-```yaml
-Stack:
-  Frontend: React, TypeScript, Tailwind CSS
-  Backend: FastAPI, Python
-  AI: Groq, OpenAI, Anthropic Claude
-Features:
-  - Real-time agent streaming
-  - Visual workflow builder
-  - Multi-model orchestration
-  - Production deployment ready
-```
+**Stack:**
+- Frontend: React, TypeScript, Tailwind CSS
+- Backend: FastAPI, Python
+- AI: Groq, OpenAI, Anthropic Claude
+
+**Features:**
+- Real-time agent streaming
+- Visual workflow builder
+- Multi-model orchestration
+- Production deployment ready
 
 [![Agent Forge](https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=agent-forge&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c4b5fd)](https://github.com/DynamicKarabo/agent-forge)
 
 ---
 
-### **🧠 RAG Vault**
+### 🧠 RAG Vault
 
-*Production-grade retrieval-augmented generation system*
+Production-grade retrieval-augmented generation system
 
-```yaml
-Stack:
-  Vector DB: ChromaDB, Pinecone
-  Embeddings: OpenAI, Cohere
-  Framework: LangChain, LlamaIndex
-Features:
-  - Multi-source document ingestion
-  - Real-time tool calling
-  - Scalable vector search
-  - Enterprise security
-```
+**Stack:**
+- Vector DB: ChromaDB, Pinecone
+- Embeddings: OpenAI, Cohere
+- Framework: LangChain, LlamaIndex
+
+**Features:**
+- Multi-source document ingestion
+- Real-time tool calling
+- Scalable vector search
+- Enterprise security
 
 [![RAG Vault](https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=rag-vault&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c4b5fd)](https://github.com/DynamicKarabo/rag-vault)
 
 ---
 
-### **🛡️ FraudInsight ML**
+### 🛡️ FraudInsight ML
 
-*Real-time fraud detection with machine learning*
+Real-time fraud detection with machine learning
 
-```yaml
-Stack:
-  ML: Scikit-learn, XGBoost, TensorFlow
-  Backend: FastAPI, Redis
-  Frontend: React, Chart.js
-Features:
-  - Real-time anomaly detection
-  - Live streaming dashboard
-  - Model versioning
-  - Production monitoring
-```
+**Stack:**
+- ML: Scikit-learn, XGBoost, TensorFlow
+- Backend: FastAPI, Redis
+- Frontend: React, Chart.js
+
+**Features:**
+- Real-time anomaly detection
+- Live streaming dashboard
+- Model versioning
+- Production monitoring
 
 [![FraudInsight ML](https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=FraudInsight-ML&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c4b5fd)](https://github.com/DynamicKarabo/FraudInsight-ML)
 
 ---
 
-## 🎯 **Target Roles**
+## 🎯 Target Roles
 
 I'm actively seeking remote positions in:
 
-| **Role** | **Tech Stack** | **Why I'm Qualified** |
-|----------|----------------|------------------------|
-| **React Web3 Developer** | React, TypeScript, ethers.js, wagmi | Built interactive dApps with wallet integration & contract calls |
-| **Full-Stack Web3 Engineer** | Next.js, Solidity, Hardhat, Node.js | End-to-end dApp development with smart contract deployment |
-| **Smart Contract Developer** | Solidity, Foundry, Hardhat, Ethers | Security-focused contract development with testing suites |
-| **Frontend Engineer (Web3)** | React, TypeScript, Web3.js, Tailwind | Production-grade UI/UX for blockchain applications |
-| **Blockchain Engineer** | Ethereum, L2s, DeFi protocols, Web3 | Architecture design for scalable blockchain solutions |
+**React Web3 Developer**
+- Tech Stack: React, TypeScript, ethers.js, wagmi
+- Qualification: Built interactive dApps with wallet integration & contract calls
+
+**Full-Stack Web3 Engineer**
+- Tech Stack: Next.js, Solidity, Hardhat, Node.js
+- Qualification: End-to-end dApp development with smart contract deployment
+
+**Smart Contract Developer**
+- Tech Stack: Solidity, Foundry, Hardhat, Ethers
+- Qualification: Security-focused contract development with testing suites
+
+**Frontend Engineer (Web3)**
+- Tech Stack: React, TypeScript, Web3.js, Tailwind
+- Qualification: Production-grade UI/UX for blockchain applications
+
+**Blockchain Engineer**
+- Tech Stack: Ethereum, L2s, DeFi protocols, Web3
+- Qualification: Architecture design for scalable blockchain solutions
 
 ---
 
-## 📋 **Hiring Process Ready**
+## 📋 Hiring Process Ready
 
-### **🎯 Technical Task Preparedness**
+### Technical Task Preparedness
 
-✅ **Code Review Expertise** – Built interactive code review simulator  
-✅ **Optimization Focus** – Performance & security best practices  
-✅ **Documentation** – Professional PDF/Google Docs export  
-✅ **References** – Screenshot capabilities built-in
+✅ Code Review Expertise – Built interactive code review simulator  
+✅ Optimization Focus – Performance & security best practices  
+✅ Documentation – Professional PDF/Google Docs export  
+✅ References – Screenshot capabilities built-in
 
-### **💼 Technical Interview Ready**
+### Technical Interview Ready
 
 - Deep understanding of Web3 architecture
 - Smart contract integration patterns
@@ -215,7 +197,7 @@ I'm actively seeking remote positions in:
 - Security best practices
 - Production deployment strategies
 
-### **🤝 Cultural Fit**
+### Cultural Fit
 
 - Remote work specialist (async communication)
 - Independent problem solver
@@ -224,31 +206,21 @@ I'm actively seeking remote positions in:
 
 ---
 
-## 📞 **Let's Connect**
+## 📞 Let's Connect
 
-<table>
-<tr>
-<td>
+### Immediate Availability
 
-### **📍 Immediate Availability**
+**Available for full-time remote positions**  
+**Start date:** Immediate  
+**Timezone:** SAST (GMT+2) with flexible hours  
+**Contract types:** Full-time, Contract, B2B
 
-```diff
-+ Available for full-time remote positions
-+ Start date: Immediate
-+ Timezone: SAST (GMT+2) with flexible hours
-+ Contract types: Full-time, Contract, B2B
-```
+### Contact Channels
 
-</td>
-</tr>
-</table>
-
-### **📬 Contact Channels**
-
-[![LinkedIn](https://img.shields.io/badge/Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/karabo-oliphant/)
-[![Email](https://img.shields.io/badge/karabooliphant@ppsolution.co.za-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:karabooliphant@ppsolution.co.za)
-[![Calendly](https://img.shields.io/badge/Schedule_Call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white&logoWidth=20)](https://calendly.com/karabo-oliphant)
-[![GitHub](https://img.shields.io/badge/Portfolio_Projects-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/DynamicKarabo)
+[![LinkedIn](https://img.shields.io/badge/Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karabo-oliphant/)
+[![Email](https://img.shields.io/badge/karabooliphant@ppsolution.co.za-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karabooliphant@ppsolution.co.za)
+[![Calendly](https://img.shields.io/badge/Schedule_Call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/karabo-oliphant)
+[![GitHub](https://img.shields.io/badge/Portfolio_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DynamicKarabo)
 
 ---
 
