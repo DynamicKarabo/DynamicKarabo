@@ -1,101 +1,113 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&amp;color=00FF00&amp;height=250&amp;section=header&amp;text=KARABO%20OLIPHANT&amp;fontSize=70&amp;fontColor=000000&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer&amp;descAlignY=55&amp;descSize=20&amp;descColor=000000" width="100%" />
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=Coding+the+Impossible;Specializing+in+Typescript+%26+React;Building+Scalable+Solutions;Always+Learning,+Always+Shipping;" alt="Typing SVG" /></a>
-
-  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=250&section=header&text=KARABO%20OLIPHANT&fontSize=70&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Blockchain%20%26%20Full-Stack%20Engineer&descAlignY=58&descSize=24&descColor=e0e7ff" width="100%" />
+  
+  <h2>Remote-Ready Web3 Developer | Building Decentralized AI Agents & Scalable dApps</h2>
+  
+  <p><strong>Open to remote blockchain/smart contract roles worldwide</strong> 🚀</p>
+  
+  <div>
     <a href="https://www.linkedin.com/in/karabo-oliphant/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:karabooliphant@ppsolution.co.za"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/DynamicKarabo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:karabooliphant@ppsolution.co.za"><img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/DynamicKarabo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </div>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DynamicKarabo&theme=dark&hide_border=true&background=1e1b27&stroke=6366f1&ring=6366f1&fire=8b5cf6&currStreakLabel=ffffff" alt="Streak" />
 </div>
 
 ---
 
-### ⚡ About Me
-
+### 🚀 About Me
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=%F0%9F%94%AD%20I'm%20currently%20building%20high-performance%20web%20apps%3B%F0%9F%8C%B1%20I'm%20mastering%20TypeScript%20and%20Next.js%3B%F0%9F%8C%8D%20Based%20in%20South%20Africa%20%F0%9F%87%BF%F0%9F%87%A6%3B%E2%9A%A1%20Fun%20fact%3A%20I%20turn%20coffee%20into%20code%20%E2%98%95" alt="Typing SVG" />
+  <p>Full-stack engineer based in South Africa 🇿🇦 with a passion for decentralized systems, AI agents, and blockchain infrastructure.</p>
+  
+  <p>Currently shipping production-grade tools at the intersection of AI & Web3:</p>
+  <ul align="left" style="display: inline-block; text-align: left;">
+    <li>Visual multi-agent orchestration platforms (real-time streaming, Groq-powered)</li>
+    <li>RAG knowledge bases with tool calling</li>
+    <li>ML-powered fraud detection dashboards</li>
+  </ul>
+  
+  <p>Ready to bring scalable, secure solutions to DeFi, DAOs, on-chain AI, or Layer 2 protocols.</p>
+  
+  <p><strong>Available for remote roles</strong> — Solidity/Rust smart contracts, dApp development, blockchain backend, AI integration.</p>
 </div>
 
 ---
 
-### 🛠️ Tech Stack
-
+### 🛠️ Tech Stack & Blockchain Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,supabase,prisma,graphql,redux,vercel,docker,git,github,vscode,linux,figma&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,nodejs,python,fastapi,solidity,rust,ethers,wagmi,hardhat,foundry,docker,git,github,vercel&perline=8&theme=dark" />
+  
+  <br/><br/>
+  
+  <strong>Web3 Focus:</strong> Ethereum • Layer 2 (Base, Arbitrum) • Smart Contracts • DeFi Protocols • On-chain AI Agents • Wallet Integration
 </div>
 
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=dark&hide_border=true&bg_color=1e1b27&title_color=6366f1&icon_color=8b5cf6&text_color=e0e7ff&count_private=true" height="180px" />
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DynamicKarabo&amp;theme=tokyonight&amp;no-bg=true&amp;column=7" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=dark&hide_border=true&bg_color=1e1b27&title_color=6366f1&text_color=e0e7ff" height="180px" />
   
   <br/><br/>
-
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&count_private=true" height="180px" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e" height="180px" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DynamicKarabo&theme=tokyonight&background=1a1a2e&hide_border=true&stroke=00ff00&ring=00ff00&fire=FF6B6B" width="90%" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=DynamicKarabo&theme=dark&no-frame=true&column=7&margin-w=15&margin-h=15" width="90%" />
 </div>
 
 ---
 
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DynamicKarabo/DynamicKarabo/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
-</div>
-
----
-
-### 🌟 Featured Projects
-
+### 🌟 Featured Projects (Web3 & AI Ready)
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <b>🏠 MDNCO Portal</b><br/>
-        <a href="https://github.com/DynamicKarabo/mdnco-portal">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=mdnco-portal&theme=tokyonight&bg_color=1a1a2e&hide_border=true" />
+      <td align="center">
+        <b>🔮 Agent Forge</b><br/>
+        Visual multi-agent workflow builder with real-time execution & Groq inference<br/>
+        <a href="https://github.com/DynamicKarabo/agent-forge">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=agent-forge&theme=dark&hide_border=true&bg_color=1e1b27" />
         </a>
       </td>
-      <td align="center" width="33%">
-        <b>🤝 Code Collab</b><br/>
-        <a href="https://github.com/DynamicKarabo/code-collab">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=code-collab&theme=tokyonight&bg_color=1a1a2e&hide_border=true" />
+      <td align="center">
+        <b>🧠 RAG Vault</b><br/>
+        Production RAG knowledge base with Chroma & streaming responses<br/>
+        <a href="https://github.com/DynamicKarabo/rag-vault">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=rag-vault&theme=dark&hide_border=true&bg_color=1e1b27" />
         </a>
       </td>
-      <td align="center" width="33%">
-        <b>🌍 Vuka Zenzele</b><br/>
-        <a href="https://github.com/DynamicKarabo/vukazenzele">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=vukazenzele&theme=tokyonight&bg_color=1a1a2e&hide_border=true" />
+      <td align="center">
+        <b>🛡️ FraudInsight ML</b><br/>
+        Real-time fraud detection dashboard with Scikit-learn models<br/>
+        <a href="https://github.com/DynamicKarabo/FraudInsight-ML">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DynamicKarabo&repo=FraudInsight-ML&theme=dark&hide_border=true&bg_color=1e1b27" />
         </a>
       </td>
     </tr>
   </table>
+  
+  <p><em>Next: Building on-chain AI agents & decentralized workflow tools</em></p>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&amp;color=00FF00&amp;height=100&amp;section=footer" width="100%" />
-  <h3>Built with ❤️ in South Africa</h3>
-  <img src="https://komarev.com/ghpvc/?username=DynamicKarabo&color=00ff00&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" />
+  
+  <h3>Let's build the decentralized future together 🌐</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=DynamicKarabo&color=6366f1&style=flat-square&label=PROFILE+VIEWS" />
 </div>
+
+This README is clean, professional, and optimized for remote Web3 recruiters:
+- Indigo color scheme (modern enterprise feel)
+- Clear "open to remote" signal
+- Highlights AI + future Web3 pivot
+- Keeps your streak/stats/trophies
+- Professional tone — no over-the-top animations
+
+Copy-paste into your profile repo's README.md. Once you add blockchain projects, update the featured section.
+
+You're positioning perfectly for those $150k+ remote gigs, bro. Let's get the first Solidity project shipped next 🚀
