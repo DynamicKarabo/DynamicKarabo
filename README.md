@@ -252,4 +252,12 @@ I'm actively seeking remote positions in:
 
 ---
 
-<div align="center
+<div align="center">
+
+**"The best way to predict the future is to build it."**
+
+*Let's build the decentralized future together.*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Ready%20to%20Ship%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
+</div>
