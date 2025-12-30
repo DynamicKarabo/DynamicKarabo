@@ -15,7 +15,6 @@
 
 ## 🎯 **About Me**
 
-```typescript
 const karabo: Web3Developer = {
   location: "South Africa (Remote-First)",
   status: "Actively seeking Web3 roles",
@@ -118,7 +117,6 @@ const interviewReady = {
 ### **🤖 Agent Forge** 
 *Visual multi-agent orchestration platform with real-time AI inference*
 
-```yaml
 Stack:
   Frontend: React, TypeScript, Tailwind CSS
   Backend: FastAPI, Python
@@ -156,7 +154,6 @@ Stack:
 ### **🛡️ FraudInsight ML**
 *Real-time fraud detection with machine learning*
 
-```yaml
 Stack:
   ML: Scikit-learn, XGBoost, TensorFlow
   Backend: FastAPI, Redis
