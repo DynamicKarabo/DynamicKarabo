@@ -1,6 +1,3 @@
-Here's the complete README.md ready to copy-paste:
-
-```markdown
 <div align="center">
 
 # 🚀 **KARABO OLIPHANT**  
