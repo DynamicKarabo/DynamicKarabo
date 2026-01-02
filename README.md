@@ -3,9 +3,9 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║   SENIOR FULL-STACK ENGINEER • BLOCKCHAIN ARCHITECT • WEB3 SPECIALIST   ║
+║   SENIOR FULL-STACK ENGINEER • BLOCKCHAIN ARCHITECT • WEB3 SPECIALIST     ║
 ║                                                                           ║
-║   End-to-End Web Applications • Production dApps • Smart Contracts       ║
+║   End-to-End Web Applications • Production dApps • Smart Contracts        ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
