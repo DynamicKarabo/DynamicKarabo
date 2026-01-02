@@ -1,13 +1,9 @@
 # 🌌 KARABO OLIPHANT
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║   SENIOR BLOCKCHAIN ARCHITECT • FULL-STACK WEB3 ENGINEER     ║
-║   Production-Grade dApps • Smart Contract Security • DeFi    ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
+
+### SENIOR BLOCKCHAIN ARCHITECT • FULL-STACK WEB3 ENGINEER
+**Production-Grade dApps • Smart Contract Security • DeFi**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karabo-oliphant/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karabooliphant@ppsolution.co.za)
@@ -23,30 +19,24 @@
 
 ## 🎯 Senior Engineer • Remote-First • Immediate Availability
 
-```typescript
-const engineer = {
-  name: "Karabo Oliphant",
-  role: "Senior Web3 & Blockchain Engineer",
-  location: "🌍 Remote (SAST • GMT+2 • Flexible Hours)",
-  status: "🟢 Available for Immediate Start",
-  
-  specialization: [
-    "Production dApp Architecture",
-    "Smart Contract Security & Audits",
-    "DeFi Protocol Implementation",
-    "Multi-Chain Integration (EVM & Solana)",
-    "AI-Powered Blockchain Systems"
-  ],
-  
-  why_hire_me: [
-    "✅ Ship Fast: Concept → Production in sprints",
-    "✅ Security-First: Built-in audit practices",
-    "✅ Full-Stack Web3: React → Contracts → DevOps",
-    "✅ Zero Handholding: Self-directed problem solver",
-    "✅ Team Player: Clear docs, async-first"
-  ]
-};
-```
+**Who I Am:**
+- 🚀 Senior Web3 & Blockchain Engineer
+- 🌍 Remote-First (SAST • GMT+2 • Flexible Hours)
+- 🟢 Available for Immediate Start
+
+**My Specialization:**
+- Production dApp Architecture
+- Smart Contract Security & Audits
+- DeFi Protocol Implementation
+- Multi-Chain Integration (EVM & Solana)
+- AI-Powered Blockchain Systems
+
+**Why Hire Me:**
+- ✅ **Ship Fast:** Concept → Production in sprints
+- ✅ **Security-First:** Built-in audit practices from smart contracts to frontend
+- ✅ **Full-Stack Web3:** React → Smart Contracts → DevOps
+- ✅ **Zero Handholding:** Self-directed, proactive problem solver
+- ✅ **Team Player:** Clear documentation, async-first communication
 
 ---
 
