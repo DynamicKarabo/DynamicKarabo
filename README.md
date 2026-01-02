@@ -1,13 +1,13 @@
 # 🌌 KARABO OLIPHANT
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   SENIOR FULL-STACK ENGINEER • BLOCKCHAIN ARCHITECT • WEB3 SPECIALIST     ║
-║                                                                           ║
-║   End-to-End Web Applications • Production dApps • Smart Contracts        ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+                      ╔═══════════════════════════════════════════════════════════════════════════╗
+                      ║                                                                           ║
+                      ║   SENIOR FULL-STACK ENGINEER • BLOCKCHAIN ARCHITECT • WEB3 SPECIALIST     ║
+                      ║                                                                           ║
+                      ║   End-to-End Web Applications • Production dApps • Smart Contracts        ║
+                      ║                                                                           ║
+                      ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
