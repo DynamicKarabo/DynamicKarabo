@@ -18,16 +18,13 @@
 
 ## 🚀 About Me
 
-```typescript
-const karabo = {
-    role: "Software Engineer & Full-Stack Developer",
-    location: "South Africa 🇿🇦",
-    currentFocus: ["AI/ML", "System Architecture", "Cloud Solutions"],
-    learning: ["Advanced Neural Networks", "Software Security", "Performance Optimization"],
-    funFact: "I turn coffee ☕ into code 💻",
-    motto: "Always learning, always building, always growing 🌱"
-};
-```
+Passionate **Software Engineer** and **Full-Stack Developer** from **South Africa 🇿🇦**, dedicated to building modern, scalable web applications and exploring the exciting world of **Artificial Intelligence** and **Machine Learning**.
+
+- 💼 **Role:** Software Engineer & Full-Stack Web Developer
+- 🎯 **Current Focus:** AI/ML, System Architecture, Cloud Solutions
+- 🌱 **Learning:** Advanced Neural Networks, Software Security, Performance Optimization
+- ☕ **Fun Fact:** I turn coffee into code!
+- � **Motto:** *Always learning, always building, always growing*
 
 ---
 
