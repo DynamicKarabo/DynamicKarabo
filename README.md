@@ -18,7 +18,7 @@
 
 ## About
 
-Backend engineer focused on **distributed systems, storage engines, and infrastructure**. I build things that are fault-tolerant, observable, and correct under pressure — write-ahead logs, atomic job queues, DAG-based orchestration, and distributed rate limiters.
+Engineer focused on **distributed systems, storage engines, and infrastructure**. I build things that are fault-tolerant, observable, and correct under pressure — write-ahead logs, atomic job queues, DAG-based orchestration, and distributed rate limiters.
 
 Currently a Junior Software Engineer at **DynamicDNA** (MICT SETA Learnership), building production APIs across corporate, education, and non-profit platforms.
 
