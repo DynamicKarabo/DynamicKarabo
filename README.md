@@ -18,41 +18,41 @@
 
 ## About
 
-Engineer focused on **distributed systems, storage engines, and infrastructure**. I build things that are fault-tolerant, observable, and correct under pressure — write-ahead logs, atomic job queues, DAG-based orchestration, and distributed rate limiters.
+Backend engineer with a focus on **distributed systems, storage engines, and infrastructure primitives**. The work tends toward correctness under pressure — write-ahead logs, atomic job queues, DAG-based orchestration, distributed rate limiters.
 
-Currently a Junior Software Engineer at **DynamicDNA** (MICT SETA Learnership), building production APIs across corporate, education, and non-profit platforms.
+Currently at **DynamicDNA** on a MICT SETA Learnership, shipping production APIs across corporate, education, and non-profit verticals.
 
 ---
 
 ## Systems Projects
 
-> The work I'm most proud of — systems built from first principles.
+> Built from first principles.
 
 ### 🗄️ Embedded Database Engine
 `Python` `B-Tree` `WAL` `Storage Systems`
 
-Bitcask-style append-only storage engine with Write-Ahead Logging and CRC32 checksums for crash-safe durability. In-memory B-Tree index for O(log N) lookups and range scanning. Background compaction and tombstone deletion for space reclamation. Verified with **18+ automated tests** covering crash recovery and persistence.
+Bitcask-style append-only storage engine. Write-Ahead Logging with CRC32 checksums for crash-safe durability. In-memory B-Tree index for O(log N) reads and range scans. Background compaction handles tombstone deletion and space reclamation. Covered by **18+ automated tests** across crash recovery and persistence scenarios.
 
 ---
 
 ### ⚙️ Distributed Job Queue
 `Node.js` `TypeScript` `Redis` `Lua` `Express`
 
-Distributed job queue with persistent storage and **at-least-once delivery guarantees** using Redis and atomic Lua scripts. Priority queuing, delayed execution, exponential backoff retry, and Dead Letter Queues. DAG-based dependency engine for complex task orchestration with a monitoring interface exposing queue metrics and job state transitions.
+Persistent job queue with **at-least-once delivery** via atomic Lua scripts on Redis. Supports priority queuing, delayed execution, exponential backoff, and Dead Letter Queues. DAG-based dependency engine for multi-step task orchestration. Includes a monitoring interface exposing queue depth, job states, and throughput.
 
 ---
 
 ### 🚦 Distributed Rate Limiter
 `Node.js` `Redis` `Lua` `Prometheus`
 
-Infrastructure-grade rate limiter with atomic Lua execution supporting **sliding window, cost-based, and multi-window chaining** algorithms. Fail-open reliability, Prometheus metrics observability, and containerised CI/CD workflows.
+Rate limiting infrastructure with atomic Lua execution across **sliding window, cost-based, and multi-window chaining** strategies. Fail-open by design. Full Prometheus observability and containerised CI/CD integration.
 
 ---
 
 ### 🔀 Distributed Version Control System (Mini Git)
 `Python` `SHA-1` `Content-Addressable Storage` `DAG`
 
-Git's core object model reimplemented from scratch — Blobs, Trees, Commits — with SHA-1 hashing and recursive tree snapshotting. Built checkout, status, and log commands. Stress-tested with **130+ automated commits** across hundreds of objects.
+Git's object model from scratch — Blobs, Trees, Commits — with SHA-1 content addressing and recursive tree snapshotting. Implements checkout, status, and log. Stress-tested across **130+ automated commits** over hundreds of objects.
 
 ---
 
@@ -61,21 +61,21 @@ Git's core object model reimplemented from scratch — Blobs, Trees, Commits —
 ### 💳 Distributed Payment Processing System
 `Node.js` `PostgreSQL` `Message Queue`
 
-Idempotent payment processing preventing duplicate transactions. Async processing via message queues and worker services, exponential backoff retry with Dead Letter Queues, transactional integrity through database constraints and idempotency keys.
+Idempotent payment processing with duplicate prevention via idempotency keys. Async worker pipeline with exponential backoff and Dead Letter Queues. Transactional integrity enforced at the database layer.
 
 ---
 
 ### 📦 Event-Driven Order Processing Platform
 `Node.js` `RabbitMQ` `PostgreSQL`
 
-Microservices communicating through a message broker. Saga-style orchestration for distributed transactions, idempotent event handling, resilient consumers with retry strategies, and loose coupling through domain event streams.
+Microservice architecture over a message broker. Saga-style orchestration for distributed transactions, idempotent consumers, resilient retry strategies, and domain event streams for loose coupling.
 
 ---
 
 ### 🔀 API Gateway with Distributed Rate Limiting
 `Node.js` `Redis` `Prometheus`
 
-High-performance API gateway handling request routing, authentication, and rate limiting. Atomic Lua-based Redis rate limiter integrated into a middleware pipeline supporting auth, logging, and traffic shaping. Prometheus metrics with latency histograms.
+API gateway handling routing, authentication, and rate limiting. Lua-based Redis rate limiter in the middleware chain alongside auth, logging, and traffic shaping. Prometheus instrumentation with latency histograms.
 
 ---
 
@@ -94,7 +94,7 @@ Tools           Git · GitHub
 ## Experience
 
 **Junior Software Engineer — DynamicDNA** *(Sep 2025 – Present)*
-Backend APIs in Node.js and TypeScript. Authentication, data persistence, external integrations, deployment pipelines.
+Backend development in Node.js and TypeScript. Authentication flows, data persistence, third-party integrations, deployment pipelines.
 
 ---
 
@@ -120,6 +120,6 @@ Backend APIs in Node.js and TypeScript. Authentication, data persistence, extern
 
 `karabooliphant34@gmail.com` · Johannesburg, South Africa
 
-*Building reliable systems, one abstraction at a time.*
+*The systems speak for themselves.*
 
 </div>
