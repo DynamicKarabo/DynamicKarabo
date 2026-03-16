@@ -19,8 +19,11 @@
 ## About
 
 **What I do** — Backend engineering across distributed systems, storage engines, and infrastructure primitives.
+
 **Where I am** — Junior Software Engineer at **DynamicDNA**, shipping production APIs on a MICT SETA Learnership.
+
 **What I'm building** — A storage engine in C#/.NET implementing WAL, MemTable, and SSTable — studying how databases actually work.
+
 
 ---
 
