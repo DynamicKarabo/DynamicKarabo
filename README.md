@@ -2,7 +2,7 @@
 
 # Karabo Oliphant
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&random=false&width=800&lines=Backend+Engineer+%7C+Distributed+Systems;Storage+Engines+%7C+Job+Queues+%7C+Rate+Limiters;Correctness+under+pressure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&random=false&width=800&lines=Backend+Engineer+%7C+C%23%2F.NET+Specialist;Payments+%7C+Reconciliation+%7C+Financial+Compliance;Multi-tenant+Architectures+%7C+Auditability)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/karabo-oliphant/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -18,85 +18,81 @@
 
 ## About
 
-**What I do** — Backend engineering across distributed systems, storage engines, and infrastructure primitives.
+**What I do** — Backend engineering with C#/.NET, specializing in payments, reconciliation, and financial compliance systems.
 
-**Where I am** — Junior Software Engineer at **DynamicDNA**, shipping production APIs on a MICT SETA Learnership.
+**Where I am** — Junior Software Engineer at **DynamicDNA**, building production APIs on a MICT SETA Learnership. Previously at **LendFlow** (micro-lending credit API) and **PayFlow** (multi-tenant payment platform).
 
-**What I'm building** — A storage engine in C#/.NET implementing WAL, MemTable, and SSTable — studying how databases actually work.
+**What I'm building** — Financial infrastructure primitives: idempotent payment flows, reconciliation engines, and audit-compliant transaction processing.
 
 
 ---
 
-## Systems Projects
+## Selected Projects
 
 > Built from first principles.
 
-### Embedded Database Engine
-`Python` `B-Tree` `WAL` `Storage Systems`
+### Financial Reconciliation Engine
+`C#` `.NET 8` `SQL Server` `Redis`
 
-Bitcask-style append-only storage engine. Write-Ahead Logging with CRC32 checksums for crash-safe durability. In-memory B-Tree index for O(log N) reads and range scans. Background compaction handles tombstone deletion and space reclamation. Covered by **18+ automated tests** across crash recovery and persistence scenarios.
+Multi-step matching pipeline: exact → fuzzy (Jaro-Winkler) → configurable rule-based matching. Idempotent ingestion on (Source, ExternalId) to prevent duplicate records. Append-only audit log for traceability and compliance. POPIA-conscious design with encrypted fields and Azure Key Vault key management.
 
-*Taught me how durability guarantees actually work at the byte level — fsync, checksums, and recovery ordering are not details you can abstract away.*
+*Reconciliation taught me that matching logic must be explicit and auditable — every decision needs a trace.*
+
+---
+
+### KYC / FICA Onboarding Service
+`C#` `.NET 8` `SQL Server` `Azure Blob Storage` `Hangfire`
+
+Customer onboarding aligned with South African FICA compliance. SA ID validation with Luhn check and structural validation. Risk scoring combining PEP flags, sanctions checks, and document quality. State machine with enforced, auditable transitions. Secure document handling via Azure Blob Storage with SAS tokens.
+
+*Compliance isn't a checkbox — it's a state machine with enforced transitions.*
+
+---
+
+### Database Migration CLI Tool
+`C#` `.NET 8` `SQL Server`
+
+Versioned SQL migrations with checksum validation and safe concurrent execution. Supports rollback detection and migration status tracking.
+
+---
+
+### Field Service Management Platform
+`C#` `.NET 8` `SignalR` `SQL Server`
+
+Job dispatching with SLA tracking and real-time updates using SignalR. Multi-tenant architecture with tenant isolation.
 
 ---
 
 ### Distributed Job Queue
 `Node.js` `TypeScript` `Redis` `Lua` `Express`
 
-Persistent job queue with **at-least-once delivery** via atomic Lua scripts on Redis. Supports priority queuing, delayed execution, exponential backoff, and Dead Letter Queues. DAG-based dependency engine for multi-step task orchestration. Monitoring interface exposes queue depth, job states, and throughput.
-
-*Building this made atomicity concrete — without Lua scripts, race conditions between check-and-act operations are unavoidable.*
+Persistent job queue with **at-least-once delivery** via atomic Lua scripts on Redis. Supports priority queuing, delayed execution, exponential backoff, and Dead Letter Queues. DAG-based dependency engine for multi-step task orchestration.
 
 ---
 
-### Distributed Rate Limiter
-`Node.js` `Redis` `Lua` `Prometheus`
+### Storage Engine (Learning Project)
+`C#` `.NET 8` `B-Tree` `WAL`
 
-Rate limiting infrastructure with atomic Lua execution across **sliding window, cost-based, and multi-window chaining** strategies. Fail-open by design. Full Prometheus observability and containerised CI/CD integration.
-
-*Designing fail-open behaviour forced a real decision: availability vs. strict enforcement — and the answer is context-dependent.*
+Bitcask-style append-only storage engine. Write-Ahead Logging with CRC32 checksums for crash-safe durability. In-memory B-Tree index for O(log N) reads. Background compaction handles tombstone deletion.
 
 ---
 
-### Distributed Version Control System (Mini Git)
-`Python` `SHA-1` `Content-Addressable Storage` `DAG`
+### Event Aggregation Pipeline
+`C#` `.NET 8` `SQL Server`
 
-Git's object model from scratch — Blobs, Trees, Commits — with SHA-1 content addressing and recursive tree snapshotting. Implements checkout, status, and log. Stress-tested across **130+ automated commits** over hundreds of objects.
-
-*Reimplementing Git clarified why content-addressable storage is elegant: identity and integrity are the same operation.*
-
----
-
-## Backend Architecture Projects
-
-### Distributed Payment Processing System
-`Node.js` `PostgreSQL` `Message Queue`
-
-Idempotent payment processing with duplicate prevention via idempotency keys. Async worker pipeline with exponential backoff and Dead Letter Queues. Transactional integrity enforced at the database layer.
-
----
-
-### Event-Driven Order Processing Platform
-`Node.js` `RabbitMQ` `PostgreSQL`
-
-Microservice architecture over a message broker. Saga-style orchestration for distributed transactions, idempotent consumers, resilient retry strategies, and domain event streams for loose coupling.
-
----
-
-### API Gateway with Distributed Rate Limiting
-`Node.js` `Redis` `Prometheus`
-
-API gateway handling routing, authentication, and rate limiting. Lua-based Redis rate limiter in the middleware chain alongside auth, logging, and traffic shaping. Prometheus instrumentation with latency histograms.
+Precomputed time-series metrics with support for late-arriving events. Background aggregation jobs with configurable windows and incremental updates.
 
 ---
 
 ## Tech Stack
 
 ```
-Languages       Python · TypeScript · JavaScript · C#
-Backend         Node.js · FastAPI · .NET Web API · REST APIs
-Data & Storage  PostgreSQL · Redis · Message Queues · Storage Engines
-Infrastructure  Docker · Linux · Prometheus
+Languages       C# · TypeScript · JavaScript · Python
+Backend         .NET 8 · ASP.NET Core · Node.js · REST APIs
+Data & Storage  SQL Server · Redis · Entity Framework Core · Dapper
+Infrastructure  Azure Service Bus · Azure Blob Storage · Azure Key Vault · Docker
+Patterns        Clean Architecture · CQRS · MediatR · State Machines
+Observability   OpenTelemetry · Prometheus · Hangfire
 Tools           Git · GitHub
 ```
 
@@ -105,7 +101,13 @@ Tools           Git · GitHub
 ## Experience
 
 **Junior Software Engineer — DynamicDNA** *(Sep 2025 – Present)*
-Building backend APIs in Node.js and TypeScript across corporate, education, and non-profit platforms. Responsible for authentication systems, data persistence layers, third-party service integrations, and deployment pipeline maintenance across multiple production environments.
+Building backend APIs across corporate, education, and non-profit platforms. Contributing to client-facing applications, deployment pipelines, and system design discussions.
+
+**Backend Engineer — LendFlow** *(Payments & Financial Infrastructure)*
+Built the micro-lending credit application API. Implemented tenant isolation via EF Core query filters, explicit state machines for loan applications, idempotent disbursements using Redis, POPIA-aware PII handling with encryption, and append-only audit logging.
+
+**Backend Engineer — PayFlow** *(Multi-Tenant Payment Processing Platform)*
+Developed multi-tenant payment processing with tenant scoping via EF Core query filters, idempotent payment handling using Redis SET NX, explicit payment state models, webhook delivery with exponential backoff, and partial refunds with settlement batching.
 
 ---
 
