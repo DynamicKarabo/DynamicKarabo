@@ -100,14 +100,22 @@ Tools           Git · GitHub
 
 ## Experience
 
-**Junior Software Engineer — DynamicDNA** *(Sep 2025 – Present)*
+**DynamicDNA — MICT SETA Learnership, Level 4** *(Sep 2025 – Present)*
 Building backend APIs across corporate, education, and non-profit platforms. Contributing to client-facing applications, deployment pipelines, and system design discussions.
 
-**Backend Engineer — LendFlow** *(Payments & Financial Infrastructure)*
-Built the micro-lending credit application API. Implemented tenant isolation via EF Core query filters, explicit state machines for loan applications, idempotent disbursements using Redis, POPIA-aware PII handling with encryption, and append-only audit logging.
+---
 
-**Backend Engineer — PayFlow** *(Multi-Tenant Payment Processing Platform)*
-Developed multi-tenant payment processing with tenant scoping via EF Core query filters, idempotent payment handling using Redis SET NX, explicit payment state models, webhook delivery with exponential backoff, and partial refunds with settlement batching.
+### LendFlow — Micro-Lending Credit Application API
+*Built as part of DynamicDNA learnership*
+
+Multi-tenant backend API for the full micro-loan lifecycle (application, decisioning, disbursement, repayment). Tenant isolation via EF Core query filters. Explicit state machines for loan applications with validated transitions. Idempotent disbursements using Redis to prevent double payments. POPIA-aware PII handling with encryption at rest. Append-only audit logging for traceable state transitions.
+
+---
+
+### PayFlow — Multi-Tenant Payment Processing Platform
+*Built as part of DynamicDNA learnership*
+
+Multi-tenant payment processing with tenant scoping via EF Core query filters. Idempotent payment handling using Redis SET NX to prevent duplicate charges. Payment state model (Created → Authorised → Captured → Settled) enforced at domain layer. Webhook delivery with exponential backoff and HMAC-SHA256 signed payloads. Partial refunds and settlement batching.
 
 ---
 
@@ -122,10 +130,10 @@ Developed multi-tenant payment processing with tenant scoping via EF Core query 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&icon_color=475569&text_color=94A3B8" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DynamicKarabo&theme=dark&hide_border=true&background=0D1117&ring=475569&fire=E2E8F0&currStreakLabel=E2E8F0" width="47%" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&icon_color=475569&text_color=94A3B8)](https://github.com/DynamicKarabo)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DynamicKarabo&theme=dark&hide_border=true&background=0D1117&ring=475569&fire=E2E8F0&currStreakLabel=E2E8F0)](https://github.com/DynamicKarabo)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8&langs_count=6" width="40%" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8&langs_count=6)](https://github.com/DynamicKarabo)
 
 </div>
 
