@@ -20,7 +20,7 @@
 
 **What I do** — Backend engineering with C#/.NET, specializing in payments, reconciliation, and financial compliance systems.
 
-**Where I am** — Junior Software Engineer at **DynamicDNA**, building production APIs on a MICT SETA Learnership. Previously at **LendFlow** (micro-lending credit API) and **PayFlow** (multi-tenant payment platform).
+**Where I am** — Enrolled in a **MICT SETA Level 4 System Development Learnership** at **DynamicDNA**. Building production APIs across corporate, education, and non-profit platforms. Built **LendFlow** (micro-lending credit API) and **PayFlow** (multi-tenant payment platform) as learnership projects.
 
 **What I'm building** — Financial infrastructure primitives: idempotent payment flows, reconciliation engines, and audit-compliant transaction processing.
 
