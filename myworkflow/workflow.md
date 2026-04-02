@@ -200,9 +200,6 @@ Claude
 | DeepSeek V3.2 chat | R4.71 | R7.07 | Primary — proven, reliable |
 | MiMo V2 Flash | R1.68 | R5.04 | Trial — cheaper, strong coding benchmarks |
 
-**Recommended split on R300:**
-- R200 DeepSeek V3.2 — main driver
-- R100 MiMo V2 Flash — evaluation and testing
 
 ---
 
