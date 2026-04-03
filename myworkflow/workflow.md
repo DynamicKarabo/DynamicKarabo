@@ -1,6 +1,6 @@
 # My AI-Assisted Development Workflow
 
-> A 5-layer system for building applications efficiently without writing code yourself.
+> A 4-layer system for building applications efficiently without writing code yourself.
 > Built through trial and error. Optimised for token efficiency, context persistence, and clean output.
 
 ---
@@ -19,9 +19,8 @@ Each layer has one job. Nothing overlaps. The system compounds over time.
 |-------|------|-----|
 | 1 | Claude | Architecture & planning |
 | 2 | NotebookLM | Persistent project brain |
-| 3 | Context Bridge | Session brief & carry-over decisions |
-| 4 | MiMo V2 Flash | Code writing |
-| 5 | Cursor | Environment — run, test, git |
+| 3 | MiMo V2 Flash | Code writing |
+| 4 | Cursor | Environment — run, test, git |
 
 ---
 ## Overview Diagram
@@ -29,9 +28,8 @@ Each layer has one job. Nothing overlaps. The system compounds over time.
 ```mermaid
 flowchart TD
   A[Claude] --> B[NotebookLM]
-  B --> C[Context Bridge]
-  C --> D[MiMo V2 Flash]
-  D --> E[Cursor]
+  B --> C[MiMo V2 Flash]
+  C --> D[Cursor]
 ```
 
 ### Tool Logos
@@ -40,7 +38,6 @@ flowchart TD
 |---|---|
 | Claude | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#F59E0B"/><circle cx="20" cy="20" r="10" fill="#111827" opacity="0.15"/><text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#ffffff">C</text></svg> |
 | NotebookLM | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#22C55E"/><circle cx="20" cy="20" r="10" fill="#111827" opacity="0.15"/><text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">NL</text></svg> |
-| Context Bridge | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#8B5CF6"/><circle cx="20" cy="20" r="10" fill="#111827" opacity="0.15"/><text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">CB</text></svg> |
 | MiMo V2 Flash | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#3B82F6"/><path d="M14 12h12l-2 6h-8l-2 6h8l-2 6H14l2-6H8l2-6h4l-2-6z" fill="#ffffff" opacity="0.18"/><text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">M2</text></svg> |
 | Cursor | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#111827"/><path d="M14 14l12 6-12 6V14z" fill="#22C55E"/><text x="26" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">CS</text></svg> |
 
@@ -100,61 +97,9 @@ It reduces execution risk by:
 
 ---
 
-## Layer 3 — Context Bridge
+## Layer 3 — MiMo V2 Flash (Code Writer)
 
-**When:** Before and after every coding session.
-
-**What happens here:**
-
-The context bridge generates a structured session brief and preserves important decisions across sessions.
-
-### Before every session
-
-Runs **Eight Gates** before any code is written:
-
-| Gate | Purpose |
-|------|---------|
-| 01 UNDERSTAND | Why does this change exist? |
-| 02 BOUND | What are the non-negotiable rules? |
-| 03 ORIENT | What exists? What is stable, frozen, volatile? |
-| 04 SURFACE DANGER | Any prior failures in this area? |
-| 05 CONTRACT | What must be true after? Written before code. |
-| 06 COST CHECK | What model tier? What token budget? |
-| 07 BUILD | AI is now allowed to generate code. |
-| 08 WRITE BACK | What was learned? Captured. Never lost. |
-
-> Gate 07 does not open until Gates 01–05 are complete.
-
-Produces a **session brief** — copy-paste ready, structured, warm with prior context.
-
-### After every session
-
-- Captures what was learned
-- Records any corrections or assumption changes
-- Updates the brain so the next session starts with full context
-- Every correction is captured once — never explained twice
-
-### Setup
-
-Configure your context bridge integration once, so it generates the session brief before code writing and records any updated decisions after the session.
-
-**Output:** A structured, context-rich session brief that feeds directly into the coding layer.
-
-**Key rule:** The session brief closes the gap between NotebookLM's spec and the coding layer's context. The project brain stays warm.
-
-### Rationale
-This layer exists to prevent “context drift” between what was specified and what the coding model actually sees in a given session.
-It makes the workflow compounding over time by:
-- Capturing decisions and updated rules right before code is generated (so the coder starts with the correct constraints)
-- Running the eight gates structure so understanding, non-negotiables, and contracts are made explicit before execution
-- Recording what changed after the session (so corrections are applied once and carried forward)
-- Turning prior pain into system behavior: danger zones become repeatable guardrails instead of recurring bugs
-
----
-
-## Layer 4 — MiMo V2 Flash (Code Writer)
-
-**When:** During active coding sessions, fed by Layer 3's session brief.
+**When:** During active coding sessions, fed directly by NotebookLM's structured prompt.
 
 **What happens here:**
 - Receives a structured brief — not an essay, not a vague one-liner
@@ -181,7 +126,7 @@ It keeps execution stable by:
 
 ---
 
-## Layer 5 — Cursor (Environment)
+## Layer 4 — Cursor (Environment)
 
 **When:** After code is generated.
 
@@ -210,10 +155,9 @@ Claude
   └── Architecture doc
         └── NotebookLM
               └── Structured prompt (TASK / STACK / CONSTRAINTS / CONTEXT / DONE WHEN)
-                    └── Session brief (danger zones + decisions + contracts)
-                                └── MiMo V2 Flash (non-reasoning mode)
-                                      └── Clean code output
-                                            └── Cursor (run + test + git)
+                    └── MiMo V2 Flash (non-reasoning mode)
+                          └── Clean code output
+                                └── Cursor (run + test + git)
 ```
 
 ---
@@ -224,11 +168,11 @@ Claude
 
 **No gap-filling** — The structured prompt format means the coding LLM receives unambiguous instructions. It doesn't need to make assumptions.
 
-**Compounds over time** — The context bridge write-back keeps decisions consistent across sessions. By session 20, the coding layer is operating with weeks of accumulated project knowledge.
+**Compounds over time** — NotebookLM’s evolving spec and prompt history keep decisions consistent across sessions. By session 20, the coding layer is operating with weeks of accumulated project knowledge.
 
 **Cost control** — Non-reasoning mode over reasoning mode. The reasoning happens upstream in Claude and NotebookLM. MiMo only executes — no reasoning tokens wasted.
 
-**Separation of concerns** — If something breaks, you know exactly which layer failed. Architecture wrong? Layer 1. Spec unclear? Layer 2. Context missing? Layer 3. Bad code? Layer 4.
+**Separation of concerns** — If something breaks, you know exactly which layer failed. Architecture wrong? Layer 1. Spec unclear? Layer 2. Bad code? Layer 3. Execution/runtime issues? Layer 4.
 
 **The right tool for the right job** — MiMo V2 Flash is purpose-built for agentic coding workflows. It doesn't need to reason about what to build — it just needs a clear spec. That's exactly what this workflow provides.
 
