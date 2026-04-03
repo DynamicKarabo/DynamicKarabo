@@ -19,30 +19,9 @@ Each layer has one job. Nothing overlaps. The system compounds over time.
 |-------|------|-----|
 | 1 | Claude | Architecture & planning |
 | 2 | NotebookLM | Persistent project brain |
-| 3 | Context Bridge | Session brief & carry-over decisions |
+| 3 | MATHA | Context bridge & session memory |
 | 4 | MiMo V2 Flash | Code writing |
 | 5 | Cursor | Environment — run, test, git |
-
----
-## Overview Diagram
-
-```mermaid
-flowchart TD
-  A[Claude] --> B[NotebookLM]
-  B --> C[Context Bridge]
-  C --> D[MiMo V2 Flash]
-  D --> E[Cursor]
-```
-
-### Tool Logos
-
-| Tool | Logo |
-|---|---|
-| Claude | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#F59E0B"/><circle cx="20" cy="20" r="10" fill="#111827" opacity="0.15"/><text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#ffffff">C</text></svg> |
-| NotebookLM | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#22C55E"/><circle cx="20" cy="20" r="10" fill="#111827" opacity="0.15"/><text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">NL</text></svg> |
-| Context Bridge | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#8B5CF6"/><circle cx="20" cy="20" r="10" fill="#111827" opacity="0.15"/><text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">CB</text></svg> |
-| MiMo V2 Flash | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#3B82F6"/><path d="M14 12h12l-2 6h-8l-2 6h8l-2 6H14l2-6H8l2-6h4l-2-6z" fill="#ffffff" opacity="0.18"/><text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">M2</text></svg> |
-| Cursor | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#111827"/><path d="M14 14l12 6-12 6V14z" fill="#22C55E"/><text x="26" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">CS</text></svg> |
 
 ---
 
@@ -59,13 +38,6 @@ flowchart TD
 **Output:** A structured architecture document — the source of truth for everything downstream.
 
 **Key rule:** This is the thinking layer. Claude does the heavy reasoning here so no other layer has to.
-
-### Rationale
-This layer exists to lock the “why” and the constraints early, so later layers can execute without re-litigating decisions.
-It prevents common failure modes:
-- Design drift across sessions/features (the architecture becomes a stable reference point)
-- Hidden assumptions (non-goals and constraints are stated explicitly up front)
-- Rework caused by unclear interfaces (downstream layers know what inputs/outputs and invariants to target)
 
 ---
 
@@ -90,25 +62,17 @@ DONE WHEN:   [Clear, specific acceptance criteria]
 
 **Key rule:** NotebookLM holds the project context so the coding LLM doesn't have to reason about it. The reasoning has already been done here.
 
-### Rationale
-This layer exists to turn “architecture intent” into a task-ready contract that the coding model can execute reliably.
-It reduces execution risk by:
-- Eliminating vagueness: prompts include `TASK`, `STACK`, `CONSTRAINTS`, `CONTEXT`, and measurable `DONE WHEN`
-- Ensuring the coder uses the right context: NotebookLM retrieves relevant project facts instead of relying on memory guesses
-- Minimizing token waste: only task-relevant information is forwarded downstream
-- Creating a durable reference for debugging: when failures happen, you compare outputs to the contract rather than restarting reasoning from scratch
-
 ---
 
-## Layer 3 — Context Bridge
+## Layer 3 — MATHA (Context Bridge)
 
 **When:** Before and after every coding session.
 
 **What happens here:**
 
-The context bridge generates a structured session brief and preserves important decisions across sessions.
+MATHA is a local MCP server that gives the coding LLM persistent project memory across sessions.
 
-### Before every session
+### Before every session — `matha before`
 
 Runs **Eight Gates** before any code is written:
 
@@ -127,34 +91,42 @@ Runs **Eight Gates** before any code is written:
 
 Produces a **session brief** — copy-paste ready, structured, warm with prior context.
 
-### After every session
+### After every session — `matha after`
 
 - Captures what was learned
 - Records any corrections or assumption changes
 - Updates the brain so the next session starts with full context
 - Every correction is captured once — never explained twice
 
-### Setup
+### Installation
 
-Configure your context bridge integration once, so it generates the session brief before code writing and records any updated decisions after the session.
+```bash
+npm install -g @10kdevs/matha
+matha init
+matha init --from requirements.md   # if you have an existing spec doc
+```
+
+### Auto-wiring (set once, works forever)
+
+Add this rule to your IDE's AI settings:
+
+```
+At the start of every conversation, call matha_brief() before writing any code.
+Review all rules, danger zones, and prior decisions.
+Flag any hasCritical:true results before proceeding.
+After completing work, call matha_record_decision() for any assumption
+that changed during the session.
+```
 
 **Output:** A structured, context-rich session brief that feeds directly into the coding layer.
 
-**Key rule:** The session brief closes the gap between NotebookLM's spec and the coding layer's context. The project brain stays warm.
-
-### Rationale
-This layer exists to prevent “context drift” between what was specified and what the coding model actually sees in a given session.
-It makes the workflow compounding over time by:
-- Capturing decisions and updated rules right before code is generated (so the coder starts with the correct constraints)
-- Running the eight gates structure so understanding, non-negotiables, and contracts are made explicit before execution
-- Recording what changed after the session (so corrections are applied once and carried forward)
-- Turning prior pain into system behavior: danger zones become repeatable guardrails instead of recurring bugs
+**Key rule:** MATHA closes the gap between NotebookLM's spec and the coding LLM's context. The brain never resets.
 
 ---
 
 ## Layer 4 — MiMo V2 Flash (Code Writer)
 
-**When:** During active coding sessions, fed by Layer 3's session brief.
+**When:** During active coding sessions, fed by MATHA's session brief.
 
 **What happens here:**
 - Receives a structured brief — not an essay, not a vague one-liner
@@ -171,14 +143,6 @@ It makes the workflow compounding over time by:
 
 **Key rule:** This layer is purely mechanical execution. The spec is clear, the context is loaded, MiMo just writes. No gap-filling. No hallucinating business logic. The upstream layers have already done the thinking.
 
-### Rationale
-This layer exists to convert the brief into code without letting the model “think past the spec”.
-It keeps execution stable by:
-- Reducing model freedom: it follows prescriptive instructions instead of inventing business logic
-- Containing reasoning costs: reasoning is only used when debugging truly ambiguous failures
-- Producing outputs that are easier to test quickly against `DONE WHEN`
-- Maintaining separation of concerns so upstream layers remain the single source of design truth
-
 ---
 
 ## Layer 5 — Cursor (Environment)
@@ -193,14 +157,6 @@ It keeps execution stable by:
 
 **Key rule:** Cursor is the environment, not the brain. AI stays out of this layer except for small, isolated fixes.
 
-### Rationale
-This layer exists to verify that the proposed code actually works in your real project environment.
-It keeps the workflow from “LLM success, engineering failure” by:
-- Grounding changes in tests and runtime checks (so mistakes are caught immediately)
-- Containing risk (you review/execute; the model doesn’t silently decide correctness)
-- Preserving engineering hygiene (git commits, small diffs, and repeatable runs)
-- Enforcing a clean loop: generate code, run/test, then iterate with the brief updated
-
 ---
 
 ## The Full Flow
@@ -210,10 +166,13 @@ Claude
   └── Architecture doc
         └── NotebookLM
               └── Structured prompt (TASK / STACK / CONSTRAINTS / CONTEXT / DONE WHEN)
-                    └── Session brief (danger zones + decisions + contracts)
+                    └── MATHA before
+                          └── Session brief (danger zones + decisions + contracts)
                                 └── MiMo V2 Flash (non-reasoning mode)
                                       └── Clean code output
                                             └── Cursor (run + test + git)
+                                                  └── MATHA after
+                                                        └── Brain updated for next session
 ```
 
 ---
@@ -224,7 +183,7 @@ Claude
 
 **No gap-filling** — The structured prompt format means the coding LLM receives unambiguous instructions. It doesn't need to make assumptions.
 
-**Compounds over time** — The context bridge write-back keeps decisions consistent across sessions. By session 20, the coding layer is operating with weeks of accumulated project knowledge.
+**Compounds over time** — MATHA's write-back means every session is warmer than the last. By session 20, the coding LLM is operating with weeks of accumulated project knowledge.
 
 **Cost control** — Non-reasoning mode over reasoning mode. The reasoning happens upstream in Claude and NotebookLM. MiMo only executes — no reasoning tokens wasted.
 
