@@ -1,6 +1,4 @@
-I need you to generate a complete architecture document for the following project:
-
-[YOUR IDEA HERE — 2-3 sentences max]
+[IDEA HERE — 2-3 sentences max]
 
 Output a single structured markdown file covering:
 
