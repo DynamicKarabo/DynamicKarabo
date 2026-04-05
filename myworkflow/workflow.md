@@ -19,7 +19,7 @@ Each layer has one job. Nothing overlaps. The system compounds over time.
 |-------|------|-----|
 | 1 | Claude | Architecture & planning |
 | 2 | NotebookLM | Persistent project brain |
-| 3 | MiMo V2 Flash | Code writing |
+| 3 | MiMo V2 Pro | Code writing |
 | 4 | Cursor | Environment — run, test, git |
 
 ---
@@ -28,7 +28,7 @@ Each layer has one job. Nothing overlaps. The system compounds over time.
 ```mermaid
 flowchart TD
   A[Claude] --> B[NotebookLM]
-  B --> C[MiMo V2 Flash]
+  B --> C[MiMo V2 Pro]
   C --> D[Cursor]
 ```
 
@@ -38,7 +38,7 @@ flowchart TD
 |---|---|
 | Claude | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#F59E0B"/><circle cx="20" cy="20" r="10" fill="#111827" opacity="0.15"/><text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#ffffff">C</text></svg> |
 | NotebookLM | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#22C55E"/><circle cx="20" cy="20" r="10" fill="#111827" opacity="0.15"/><text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">NL</text></svg> |
-| MiMo V2 Flash | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#3B82F6"/><path d="M14 12h12l-2 6h-8l-2 6h8l-2 6H14l2-6H8l2-6h4l-2-6z" fill="#ffffff" opacity="0.18"/><text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">M2</text></svg> |
+| MiMo V2 Pro | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#3B82F6"/><path d="M14 12h12l-2 6h-8l-2 6h8l-2 6H14l2-6H8l2-6h4l-2-6z" fill="#ffffff" opacity="0.18"/><text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">M2</text></svg> |
 | Cursor | <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="34" height="34" rx="8" fill="#111827"/><path d="M14 14l12 6-12 6V14z" fill="#22C55E"/><text x="26" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">CS</text></svg> |
 
 ---
@@ -97,7 +97,7 @@ It reduces execution risk by:
 
 ---
 
-## Layer 3 — MiMo V2 Flash (Code Writer)
+## Layer 3 — MiMo V2  (Code Writer)
 
 **When:** During active coding sessions, fed directly by NotebookLM's structured prompt.
 
@@ -107,7 +107,7 @@ It reduces execution risk by:
 - Operates in **non-reasoning mode** — the reasoning was done upstream in Claude and NotebookLM
 - Only switches to reasoning mode when debugging complex or unexpected failures
 
-**Why MiMo V2 Flash:**
+**Why MiMo V2 :**
 - Ranks #1 open-source globally on SWE-Bench Verified and SWE-Bench Multilingual
 - Trained on 100,000+ verifiable GitHub issues — built to execute well-defined coding tasks
 - Generates at 150 tokens/second — fast feedback loop
@@ -155,7 +155,7 @@ Claude
   └── Architecture doc
         └── NotebookLM
               └── Structured prompt (TASK / STACK / CONSTRAINTS / CONTEXT / DONE WHEN)
-                    └── MiMo V2 Flash (non-reasoning mode)
+                    └── MiMo V2 Pro (non-reasoning mode)
                           └── Clean code output
                                 └── Cursor (run + test + git)
 ```
@@ -174,7 +174,7 @@ Claude
 
 **Separation of concerns** — If something breaks, you know exactly which layer failed. Architecture wrong? Layer 1. Spec unclear? Layer 2. Bad code? Layer 3. Execution/runtime issues? Layer 4.
 
-**The right tool for the right job** — MiMo V2 Flash is purpose-built for agentic coding workflows. It doesn't need to reason about what to build — it just needs a clear spec. That's exactly what this workflow provides.
+**The right tool for the right job** — MiMo V2 Pro is purpose-built for agentic coding workflows. It doesn't need to reason about what to build — it just needs a clear spec. That's exactly what this workflow provides.
 
 ---
 
