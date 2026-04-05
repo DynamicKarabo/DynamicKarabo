@@ -18,12 +18,11 @@
 
 ## About
 
-**What I do** — Backend engineering with C#/.NET, specializing in payments, reconciliation, and financial compliance systems.
+**What I do** — Backend engineering with C#/.NET, specializing in payments, reconciliation, and financial compliance (FICA/POPIA). Experienced designing multi-tenant architectures built for correctness, auditability, and graceful failure handling. Comfortable across messaging systems, background processing, and distributed workflows.
 
-**Where I am** — Enrolled in a **MICT SETA Level 4 System Development Learnership** at **DynamicDNA**. Building production APIs across corporate, education, and non-profit platforms. Built **LendFlow** (micro-lending credit API) and **PayFlow** (multi-tenant payment platform) as learnership projects.
+**Where I am** — Enrolled in a **MICT SETA Level 4 System Development Learnership** at **DynamicDNA**. Contributing to client-facing applications across corporate, education, and non-profit platforms. Built **LendFlow** (micro-lending credit API) and **PayFlow** (multi-tenant payment platform) as learnership projects.
 
 **What I'm building** — Financial infrastructure primitives: idempotent payment flows, reconciliation engines, and audit-compliant transaction processing.
-
 
 ---
 
@@ -31,69 +30,81 @@
 
 > Built from first principles.
 
-### Financial Reconciliation Engine
-`C#` `.NET 8` `SQL Server` `Redis`
+### LendFlow — Micro-Lending Credit Application API
+`C#` `.NET 8` `ASP.NET Core` `SQL Server` `Redis` `Azure Service Bus` `Hangfire` `EF Core` `Dapper`
 
-Multi-step matching pipeline: exact → fuzzy (Jaro-Winkler) → configurable rule-based matching. Idempotent ingestion on (Source, ExternalId) to prevent duplicate records. Append-only audit log for traceability and compliance. POPIA-conscious design with encrypted fields and Azure Key Vault key management.
+Multi-tenant backend API for the full micro-loan lifecycle (application → decisioning → disbursement → repayment), with auditability and compliance as first-class concerns.
+
+- Tenant isolation via global EF Core query filters and TenantId on all entities.
+- Explicit state machines for loan applications with validated transitions.
+- Idempotent financial operations using Redis keys to prevent double disbursements.
+- POPIA-aware PII handling with encryption at rest and minimal data exposure.
+- Append-only audit logging for traceable state transitions and regulatory reporting.
+
+---
+
+### PayFlow — Multi-Tenant Payment Processing Platform
+`C#` `.NET 8` `SQL Server` `Redis` `Azure Service Bus` `Hangfire` `Docker`
+
+Payment processing system focused on safe retries, tenant isolation, and traceable payment flows.
+
+- Tenant scoping with EF Core query filters to eliminate cross-tenant data access risk.
+- Idempotent payment handling using Redis SET NX to prevent duplicate charges on retries.
+- Payment state model (Created → Authorised → Captured → Settled) enforced at domain layer.
+- Webhook delivery system with exponential backoff retries and HMAC-SHA256 signed payloads.
+- Partial refunds, settlement batching, and test/live environment separation.
+
+---
+
+### Financial Reconciliation Engine
+`C#` `.NET 8` `SQL Server` `Azure Service Bus` `MediatR` `Hangfire`
+
+Transaction matching system to reconcile records across multiple financial sources.
+
+- Multi-step matching pipeline: exact → fuzzy (Jaro-Winkler) → configurable rule-based matching.
+- Idempotent ingestion on (Source, ExternalId) to prevent duplicate records.
+- Append-only audit log for traceability and compliance requirements.
+- Exception workflow with categorisation (mismatch, duplicate) and manual review support.
+- POPIA-conscious design: minimal PII, encrypted fields, keys managed via Azure Key Vault.
 
 *Reconciliation taught me that matching logic must be explicit and auditable — every decision needs a trace.*
 
 ---
 
 ### KYC / FICA Onboarding Service
-`C#` `.NET 8` `SQL Server` `Azure Blob Storage` `Hangfire`
+`C#` `.NET 8` `SQL Server` `Azure Blob Storage` `Hangfire` `Key Vault`
 
-Customer onboarding aligned with South African FICA compliance. SA ID validation with Luhn check and structural validation. Risk scoring combining PEP flags, sanctions checks, and document quality. State machine with enforced, auditable transitions. Secure document handling via Azure Blob Storage with SAS tokens.
+Customer onboarding system aligned with South African FICA compliance requirements.
+
+- SA ID validation logic including Luhn check and full structural validation.
+- Risk scoring system combining PEP flags, sanctions checks, and document quality signals.
+- Onboarding flow modelled as a state machine with enforced, auditable transitions.
+- Secure document handling via Azure Blob Storage private access and SAS tokens.
+- Role-based workflows for enhanced due diligence and multi-level approvals.
 
 *Compliance isn't a checkbox — it's a state machine with enforced transitions.*
 
 ---
 
-### Database Migration CLI Tool
-`C#` `.NET 8` `SQL Server`
+## Additional Projects
 
-Versioned SQL migrations with checksum validation and safe concurrent execution. Supports rollback detection and migration status tracking.
+**Event Sourcing & CQRS Reference Implementation** — Append-only event store with aggregate replay, transactional outbox, and optimistic concurrency on PostgreSQL.
 
----
+**Real-Time Notification Engine** — SignalR hub with Redis backplane, presence tracking, and exactly-once event delivery via Redis Streams.
 
-### Field Service Management Platform
-`C#` `.NET 8` `SignalR` `SQL Server`
-
-Job dispatching with SLA tracking and real-time updates using SignalR. Multi-tenant architecture with tenant isolation.
-
----
-
-### Distributed Job Queue
-`Node.js` `TypeScript` `Redis` `Lua` `Express`
-
-Persistent job queue with **at-least-once delivery** via atomic Lua scripts on Redis. Supports priority queuing, delayed execution, exponential backoff, and Dead Letter Queues. DAG-based dependency engine for multi-step task orchestration.
-
----
-
-### Storage Engine (Learning Project)
-`C#` `.NET 8` `B-Tree` `WAL`
-
-Bitcask-style append-only storage engine. Write-Ahead Logging with CRC32 checksums for crash-safe durability. In-memory B-Tree index for O(log N) reads. Background compaction handles tombstone deletion.
-
----
-
-### Event Aggregation Pipeline
-`C#` `.NET 8` `SQL Server`
-
-Precomputed time-series metrics with support for late-arriving events. Background aggregation jobs with configurable windows and incremental updates.
+**EquiLink** — Production-grade institutional trading platform designed for asset managers, hedge funds, and prop trading firms.
 
 ---
 
 ## Tech Stack
 
 ```
-Languages       C# · TypeScript · JavaScript · Python
-Backend         .NET 8 · ASP.NET Core · Node.js · REST APIs
-Data & Storage  SQL Server · Redis · Entity Framework Core · Dapper
-Infrastructure  Azure Service Bus · Azure Blob Storage · Azure Key Vault · Docker
-Patterns        Clean Architecture · CQRS · MediatR · State Machines
-Observability   OpenTelemetry · Prometheus · Hangfire
-Tools           Git · GitHub
+Backend         C# · .NET 8 · ASP.NET Core · Entity Framework Core · MediatR
+Data            SQL Server · Redis
+Infrastructure  Azure Service Bus · Azure Blob Storage · Azure Key Vault · Docker · Linux
+Patterns        Clean Architecture · CQRS · State Machines · Event-driven Systems
+Observability   OpenTelemetry · Prometheus
+Other           TypeScript · JavaScript · Python · Node.js
 ```
 
 ---
@@ -101,21 +112,7 @@ Tools           Git · GitHub
 ## Experience
 
 **DynamicDNA — MICT SETA Learnership, Level 4** *(Sep 2025 – Present)*
-Building backend APIs across corporate, education, and non-profit platforms. Contributing to client-facing applications, deployment pipelines, and system design discussions.
-
----
-
-### LendFlow — Micro-Lending Credit Application API
-*Built as part of DynamicDNA learnership*
-
-Multi-tenant backend API for the full micro-loan lifecycle (application, decisioning, disbursement, repayment). Tenant isolation via EF Core query filters. Explicit state machines for loan applications with validated transitions. Idempotent disbursements using Redis to prevent double payments. POPIA-aware PII handling with encryption at rest. Append-only audit logging for traceable state transitions.
-
----
-
-### PayFlow — Multi-Tenant Payment Processing Platform
-*Built as part of DynamicDNA learnership*
-
-Multi-tenant payment processing with tenant scoping via EF Core query filters. Idempotent payment handling using Redis SET NX to prevent duplicate charges. Payment state model (Created → Authorised → Captured → Settled) enforced at domain layer. Webhook delivery with exponential backoff and HMAC-SHA256 signed payloads. Partial refunds and settlement batching.
+Contributing to client-facing web applications across corporate, education, and non-profit sectors. Participating in deployment processes and collaborating on system design discussions. Building supporting backend components and improving reliability of existing features.
 
 ---
 
@@ -123,8 +120,8 @@ Multi-tenant payment processing with tenant scoping via EF Core query filters. I
 
 | | |
 |---|---|
-| **Level 4 System Development** | DynamicDNA · MICT SETA Learnership · 2025–Present |
-| **Software Engineering** | ALX Africa · Feb–Aug 2024 |
+| **Level 4 System Development** | MICT SETA · System Development Learnership |
+| **Software Engineering** | ALX Africa · Software Engineering Programme |
 
 ---
 
