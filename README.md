@@ -1,145 +1,92 @@
 <div align="center">
 
-# Karabo Oliphant
+# **Karabo Oliphant**
+### Full-Stack Engineer · Johannesburg, South Africa 🇿🇦
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&random=false&width=800&lines=Backend+Engineer+%7C+C%23%2F.NET+Specialist;Payments+%7C+Reconciliation+%7C+Financial+Compliance;Multi-tenant+Architectures+%7C+Auditability)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://www.linkedin.com/in/karabo-oliphant/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://karabootech.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-E2E8F0?style=flat-square&logo=vercel&logoColor=black"/></a>
-  <a href="https://github.com/DynamicKarabo"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=DynamicKarabo&label=Profile+Views&color=475569&style=flat-square" />
+[![GitHub followers](https://img.shields.io/github/followers/DynamicKarabo?style=for-the-badge&logo=github&color=0e75b6)](https://github.com/DynamicKarabo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karabo-oliphant)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:karabo@example.com)
 
 </div>
 
 ---
 
-## About
-
-**What I do** — Backend engineering with C#/.NET, specializing in payments, reconciliation, and financial compliance (FICA/POPIA). Experienced designing multi-tenant architectures built for correctness, auditability, and graceful failure handling. Comfortable across messaging systems, background processing, and distributed workflows.
-
-**Where I am** — Enrolled in a **MICT SETA Level 4 System Development Learnership** at **DynamicDNA**. Contributing to client-facing applications across corporate, education, and non-profit platforms. Built **LendFlow** (micro-lending credit API) and **PayFlow** (multi-tenant payment platform) as learnership projects.
-
-**What I'm building** — Financial infrastructure primitives: idempotent payment flows, reconciliation engines, and audit-compliant transaction processing.
+> **I ship production-grade systems.** From micro-lending platforms to real-time fraud detection engines, I build software that moves money, data, and people — securely, at scale, and fast.
 
 ---
 
-## Selected Projects
+## 🚀 Shipped Projects
 
-> Built from first principles.
-
-### LendFlow — Micro-Lending Credit Application API
-`C#` `.NET 8` `ASP.NET Core` `SQL Server` `Redis` `Azure Service Bus` `Hangfire` `EF Core` `Dapper`
-
-Multi-tenant backend API for the full micro-loan lifecycle (application → decisioning → disbursement → repayment), with auditability and compliance as first-class concerns.
-
-- Tenant isolation via global EF Core query filters and TenantId on all entities.
-- Explicit state machines for loan applications with validated transitions.
-- Idempotent financial operations using Redis keys to prevent double disbursements.
-- POPIA-aware PII handling with encryption at rest and minimal data exposure.
-- Append-only audit logging for traceable state transitions and regulatory reporting.
+| Project | Live Demo | Stack | What It Does |
+|---------|-----------|-------|--------------|
+| **LendFlow** | [🌐 Live](https://web-bay-beta-10.vercel.app) | `.NET 8` `React` `Tailwind` `SQL Server` `Redis` | Micro-lending platform with real-time credit scoring and loan lifecycle management |
+| **FD-Marketplace** | [🌐 Live](https://fd-marketplace.vercel.app) | `Node.js` `React` `Kafka` `Stripe` `PostgreSQL` | Food delivery marketplace with microservices architecture and payment orchestration |
+| **PayFlow** | [🌐 Live](https://payflow-frontend-nine.vercel.app) | `.NET 8` `React` `SQL Server` `Redis` | Payment processing system with idempotency, retries, and transaction reconciliation |
+| **EquiLink** | [🌐 Live](https://equilink-frontend.vercel.app) | `.NET 8` `React` `CQRS` `Event Sourcing` `PostgreSQL` | Trading platform built on event-driven architecture with full audit trails |
+| **EduTrack** | [🌐 Live](https://class-app-alpha.vercel.app) | `Vite` `React` `TypeScript` `Tailwind` | Real-time class attendance and student progress tracking |
+| **RT-FDE** | *Private Repo* | `.NET 8` `Redis` `xUnit` | Real-time fraud detection engine — **95.4% test coverage** |
+| **recon-engine** | *Private Repo* | `.NET 8` `SQL Server` `Hangfire` | Automated financial reconciliation with scheduled job orchestration |
+| **kyc-service** | *Private Repo* | `.NET 8` `Azure Blob Storage` | FICA-compliant customer onboarding with document verification |
 
 ---
 
-### PayFlow — Multi-Tenant Payment Processing Platform
-`C#` `.NET 8` `SQL Server` `Redis` `Azure Service Bus` `Hangfire` `Docker`
+## 🛠️ Tech Stack
 
-Payment processing system focused on safe retries, tenant isolation, and traceable payment flows.
+**Backend**
 
-- Tenant scoping with EF Core query filters to eliminate cross-tenant data access risk.
-- Idempotent payment handling using Redis SET NX to prevent duplicate charges on retries.
-- Payment state model (Created → Authorised → Captured → Settled) enforced at domain layer.
-- Webhook delivery system with exponential backoff retries and HMAC-SHA256 signed payloads.
-- Partial refunds, settlement batching, and test/live environment separation.
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
----
+**Frontend**
 
-### Financial Reconciliation Engine
-`C#` `.NET 8` `SQL Server` `Azure Service Bus` `MediatR` `Hangfire`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-Transaction matching system to reconcile records across multiple financial sources.
+**DevOps & Tooling**
 
-- Multi-step matching pipeline: exact → fuzzy (Jaro-Winkler) → configurable rule-based matching.
-- Idempotent ingestion on (Source, ExternalId) to prevent duplicate records.
-- Append-only audit log for traceability and compliance requirements.
-- Exception workflow with categorisation (mismatch, duplicate) and manual review support.
-- POPIA-conscious design: minimal PII, encrypted fields, keys managed via Azure Key Vault.
-
-*Reconciliation taught me that matching logic must be explicit and auditable — every decision needs a trace.*
-
----
-
-### KYC / FICA Onboarding Service
-`C#` `.NET 8` `SQL Server` `Azure Blob Storage` `Hangfire` `Key Vault`
-
-Customer onboarding system aligned with South African FICA compliance requirements.
-
-- SA ID validation logic including Luhn check and full structural validation.
-- Risk scoring system combining PEP flags, sanctions checks, and document quality signals.
-- Onboarding flow modelled as a state machine with enforced, auditable transitions.
-- Secure document handling via Azure Blob Storage private access and SAS tokens.
-- Role-based workflows for enhanced due diligence and multi-level approvals.
-
-*Compliance isn't a checkbox — it's a state machine with enforced transitions.*
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-0769AD?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnptMCAxOGMtNC40MTggMC04LTMuNTgyLTgtOHMzLjU4Mi04IDgtOCA4IDMuNTgyIDggOC0zLjU4MiA4LTggOHptLTEtMTNIOXYyaDJ2LTJ6bTYgMGgtMnYyaDJ2LTJ6bS03IDdoNXYyaC01di0yem0tMiAzaDZ2MmgtNnYtMnoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)
 
 ---
 
-## Additional Projects
+## ⚙️ How I Build
 
-**Event Sourcing & CQRS Reference Implementation** — Append-only event store with aggregate replay, transactional outbox, and optimistic concurrency on PostgreSQL.
-
-**Real-Time Notification Engine** — SignalR hub with Redis backplane, presence tracking, and exactly-once event delivery via Redis Streams.
-
-**EquiLink** — Production-grade institutional trading platform designed for asset managers, hedge funds, and prop trading firms.
-
----
-
-## Tech Stack
-
-```
-Backend         C# · .NET 8 · ASP.NET Core · Entity Framework Core · MediatR
-Data            SQL Server · Redis
-Infrastructure  Azure Service Bus · Azure Blob Storage · Azure Key Vault · Docker · Linux
-Patterns        Clean Architecture · CQRS · State Machines · Event-driven Systems
-Observability   OpenTelemetry · Prometheus
-Other           TypeScript · JavaScript · Python · Node.js
-```
+- **Test-Driven by Default** — Unit, integration, and contract tests before features hit staging. RT-FDE sits at **95.4% coverage** not by accident, by design.
+- **CI/CD Native** — Every project ships with automated pipelines. No manual deploys. No "works on my machine."
+- **Clean Architecture** — CQRS, Event Sourcing, and vertical slice architecture where the domain demands it. I optimize for readability at 2 AM during an incident.
+- **Compliance-First Design** — FICA, PCI-DSS, and financial regulation aren't afterthoughts. They're constraints I design around from day one.
+- **Observability In** — Structured logging, health checks, and metrics out of the box. If it can't be monitored, it's not production-ready.
 
 ---
 
-## Experience
-
-**DynamicDNA — MICT SETA Learnership, Level 4** *(Sep 2025 – Present)*
-Contributing to client-facing web applications across corporate, education, and non-profit sectors. Participating in deployment processes and collaborating on system design discussions. Building supporting backend components and improving reliability of existing features.
-
----
-
-## Education
-
-| | |
-|---|---|
-| **Level 4 System Development** | MICT SETA · System Development Learnership |
-| **Software Engineering** | ALX Africa · Software Engineering Programme |
-
----
+## 📈 GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&icon_color=475569&text_color=94A3B8)](https://github.com/DynamicKarabo)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DynamicKarabo&theme=dark&hide_border=true&background=0D1117&ring=475569&fire=E2E8F0&currStreakLabel=E2E8F0)](https://github.com/DynamicKarabo)
+![Karabo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DynamicKarabo&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8&langs_count=6)](https://github.com/DynamicKarabo)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicKarabo&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-<div align="center">
+## 📬 Let's Build Something
 
-`karabooliphant34@gmail.com` · Johannesburg, South Africa
+I'm open to **remote opportunities** and **contract work** — especially in fintech, logistics, and high-compliance environments.
 
-*The systems speak for themselves.*
+- 💼 [LinkedIn](https://linkedin.com/in/karabo-oliphant)
+- 🐦 [Twitter / X](https://twitter.com/DynamicKarabo)
+- 📧 [karabo@example.com](mailto:karabo@example.com)
+
+> *"Ship fast. Sleep well. Test everything."*
 
 </div>
