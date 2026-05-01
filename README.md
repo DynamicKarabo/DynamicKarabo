@@ -114,7 +114,7 @@
 
 ## 📬 Let's Build Something
 
-I'm open to **remote opportunities** and **contract work** — especially in fintech, SaaS, and high-compliance environments where systems need to move money and data without excuses. Target rate: **$80-120/hr**.
+I'm open to **remote opportunities** and **contract work** — especially in fintech, SaaS, and high-compliance environments where systems need to move money and data without excuses. I build systems that move money and data without excuses.
 
 - 💼 [LinkedIn](https://linkedin.com/in/karabo-oliphant)
 - 🐦 [Twitter / X](https://twitter.com/DynamicKarabo)
