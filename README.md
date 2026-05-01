@@ -19,13 +19,15 @@ idempotent by default. tested to death. containers always.
 
 **kyc-service** → FICA-aligned digital onboarding. SA ID validation (Luhn + checksum). document verification.
 
+**k3s-cluster** → production Kubernetes on a single node. ArgoCD GitOps, cert-manager TLS, monitoring stack. deployed from commit to cluster.
+
 ---
 
 ## the stack
 
 **core** — .NET · C# · SQL Server · PostgreSQL · Redis
 
-**infra** — Docker · Kubernetes · GitHub Actions
+**infra** — Docker · Kubernetes (k3s) · ArgoCD · Helm · GitHub Actions · cert-manager
 
 ---
 
@@ -47,10 +49,10 @@ idempotent by default. tested to death. containers always.
 
 ## currently
 
-building: .NET backends for fintech systems
+building: .NET backends + k3s GitOps pipeline
 location: johannesburg, SA
 target: remote backend — fintech, SaaS, or anywhere transactional integrity matters
-vibe: "trust the process. test the code. ship with confidence."
+vibe: "commit to main. CI builds it. ArgoCD ships it."
 
 ---
 
