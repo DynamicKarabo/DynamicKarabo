@@ -11,11 +11,15 @@ idempotent by default. tested to death. containers always.
 
 **subject-rights-service** → POPIA compliance. DSAR management with a 30-day legal clock. Consent lifecycle tracking. Immutable audit trail over RabbitMQ. CQRS from request to event. *Privacy by design, enforced in code.*
 
+**claims-engine** → Insurance/medical aid claims adjudication. State machine from Draft→Paid with automated transitions, configurable benefit rules, document evidence management, and cursor-paginated claim search. *Every claim has a state. Every state has a machine.*
+
 **financial-event-engine** → Saga orchestrator for distributed financial transactions. Central coordinator guides multi-step payment flow with compensating rollbacks on failure. MassTransit + RabbitMQ + transactional outbox. *When money moves, every step counts.*
 
 **lendflow** → lending platform with tenant isolation, state machines, and POPIA compliance designed in, not bolted on.
 
 **payflow** → payment processing. HMAC-signed webhooks, merchant reconciliation, idempotent retries. money stuff.
+
+**subscription-platform** → Usage-based billing and entitlement platform. Plan lifecycle, metered billing, proration, dunning cycles, Stripe integration. Background service runs billing daily. *Payments aren't just one-time — they recur.*
 
 **equilink** → institutional trading middleware. CQRS + event sourcing. 7-year regulatory WORM archiving. no cutting corners.
 
@@ -57,7 +61,7 @@ idempotent by default. tested to death. containers always.
 
 ## currently
 
-building: compliance systems, saga orchestrators, observability tooling
+building: claims engines, subscription platforms, saga orchestrators, observability tooling
 reading: distributed systems patterns
 location: johannesburg, SA
 vibe: "commit to main. CI builds it. CI tests it. CI ships it."
