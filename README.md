@@ -21,8 +21,6 @@ idempotent by default. tested to death. containers always.
 
 **subscription-platform** → Usage-based billing and entitlement platform. Plan lifecycle, metered billing, proration, dunning cycles, Stripe integration. Background service runs billing daily. *Payments aren't just one-time — they recur.*
 
-**equilink** → institutional trading middleware. CQRS + event sourcing. 7-year regulatory WORM archiving. no cutting corners.
-
 **recon-engine** → transaction matching pipeline. exact match → fuzzy match → rules. financial data integrity or bust.
 
 **kyc-service** → FICA-aligned digital onboarding. SA ID validation (Luhn + checksum). document verification.
